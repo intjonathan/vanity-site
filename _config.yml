@@ -1,6 +1,7 @@
 theme: no-style-please
 title: intjonathan
 description: A Homepage
+repository: intjonathan/vanity-site
 
 exclude:
   - CLAUDE.md

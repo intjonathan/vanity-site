@@ -4,3 +4,4 @@ description: A Homepage
 
 exclude:
   - CLAUDE.md
+  - vendor

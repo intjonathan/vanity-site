@@ -1,13 +1,14 @@
-- title: Blog
-  post_list:
-    limit: 5
-    show_more: true
-    show_more_text: See all posts
-    show_more_url: /posts.html
+entries:
+  - title: Blog
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See all posts
+      show_more_url: /posts.html
 
-- title: Conference Talks
-  post_list:
-    category: talks
-    show_more: true
-    show_more_text: See all talks
-    show_more_url: /talks.html
+  - title: Conference Talks
+    post_list:
+      category: talks
+      show_more: true
+      show_more_text: See all talks
+      show_more_url: /talks.html

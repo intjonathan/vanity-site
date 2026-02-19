@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to my blog
+title: intjonathan
 ---
 
 Here's some content. This is where I might validate my mas.to account, for example.

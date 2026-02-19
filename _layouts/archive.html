@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.which_category %}
+  {% assign posts = site.categories[page.which_category] %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% if posts.size > 0 %}
+  <ul>
+    {% for post in posts %}
+      <li>
+        <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+        &mdash;
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts yet.</p>
+{% endif %}

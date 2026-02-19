@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h2>Blog</h2>
+<ul>
+  {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% unless post.categories contains "talks" %}
+      {% if count < 5 %}
+        <li>
+          <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+          &mdash;
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+</ul>
+<p><a href="{{ '/posts.html' | relative_url }}">See all posts</a></p>
+
+<h2>Conference Talks</h2>
+<ul>
+  {% for post in site.categories.talks %}
+    <li>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      &mdash;
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<p><a href="{{ '/talks.html' | relative_url }}">See all talks</a></p>

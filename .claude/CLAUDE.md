@@ -25,7 +25,7 @@ The site is hosted on github. Use `gh` to interact with workflows and other gith
 
 Builds are done with Github workflows, specified in the .github directory.
 
-The site's DNS name is https://intjonathan.com, visiting that URL will show you the site as github hosts it.
+The site's DNS name is https://intjonathan.com. Visiting that URL will show you the site as github hosts it.
 
 ## Structure
 

@@ -1,0 +1,1969 @@
+What follows is a transcript of a talk delivered by me, Jonathan Owens, on 7 December 2015 at New Relic's FutureStack developer conference. A video is located at https://www.youtube.com/watch?v=bV_JFrhYsqU. At the time I was a Senior Site Reliability Engineer at New Relic, an observability company.
+
+The transcript was automatically generated from youtube, you are likely to find typos or incorrect words used.
+
+---
+
+good morning everybody hope you're
+
+
+feeling awake thank you for coming out
+
+
+and seeing databases and dragons I have
+
+
+a treat for you at free eye tests
+
+
+courtesy of new relic legal i also have a my
+
+
+own little legal clause which is that my
+
+
+discussions about the data stores today
+
+
+are purely my own grouchy ops opinion
+
+
+and not does not represent a new relic
+
+
+as a company also most of the advice
+
+
+that i have for you today is best suited
+
+
+for services that run on more than 50
+
+
+machines or on which more than 150
+
+
+people work if you're smaller than that
+
+
+just use postgres and go see Jean Kim
+
+
+because he will help you outgrow it
+
+
+until then your focus really needs to be
+
+
+making your application so good that
+
+
+your database is too small for it all
+
+
+right now that I've got the right people
+
+
+in the room let's talk about storage
+
+
+your storage is important and even more
+
+
+so its scale it's important because even
+
+
+simple things become hard when you're
+
+
+big let's say you wanted to chart the
+
+
+performance of our insights product like
+
+
+we have here on the Left we have number
+
+
+of requests and across the bottom
+
+
+response time for the requests pretty
+
+
+straightforward response time histogram
+
+
+right well insights is big enough at
+
+
+this point that just to generate that we
+
+
+have to evaluate five billion events and
+
+
+we did it in two seconds if this sort of
+
+
+chart took a long time it would be very
+
+
+hard to answer a simple question that's
+
+
+not where you want to be you want to be
+
+
+able to answer these questions quickly
+
+
+and you want to be able to iterate on
+
+
+them let's start to slice and dice and
+
+
+when you've got this much data you need
+
+
+something strong under it your storage
+
+
+is also important because when it fails
+
+
+your site tends to look like this even
+
+
+the biggest most adept companies are
+
+
+caught following on their faces when
+
+
+their storage systems die keeping those
+
+
+systems healthy it's one of the most
+
+
+important jobs on your infrastructure so
+
+
+how do you pick the right one well every
+
+
+time you commit to one you're taking a
+
+
+chance maybe this technology will grow
+
+
+with us maybe it won't maybe I can't
+
+
+afford the consulting fees to make it
+
+
+work well might as well just roll the
+
+
+dice but you're an engineer you want to
+
+
+do something smarter than that so you
+
+
+read the web sites you try to understand
+
+
+what they're doing but if you look
+
+
+closely at these things they don't
+
+
+really tell you that much
+
+
+they use a lot of buzzwords cloud
+
+
+scalable efficient but they don't really
+
+
+tell you how good of a fit they are for
+
+
+your product so at the end of the day
+
+
+you really are going to have to try it
+
+
+out yourself and honestly who has time
+
+
+it would be awfully nice if we could
+
+
+characterize these things get some kind
+
+
+of summary of what they're good at what
+
+
+they're a good fit for and what they
+
+
+might not be I know all right some of
+
+
+you were going to recognize this but for
+
+
+those who don't there's a little bit of
+
+
+backstory so in tabletop role-playing
+
+
+players must assume the role of a
+
+
+fictional character it's a bit like
+
+
+improv you're given a situation and
+
+
+something your character cares about and
+
+
+you play it out in a group under the
+
+
+guidance of another player called the
+
+
+dungeon master now role playing is a lot
+
+
+more complex than an improv sketch so
+
+
+people that use these things called
+
+
+character sheets across the top is named
+
+
+and some basic information about the
+
+
+character on the left and center some
+
+
+stats about how good they are in combat
+
+
+how intelligent they are how charismatic
+
+
+and on the right side some little
+
+
+personality descriptions to help you
+
+
+understand what this thing is about what
+
+
+if we could build one of these for our
+
+
+data stores might help us build an idea
+
+
+of what these things are good for so
+
+
+when you're trying to characterize your
+
+
+data here are some questions to help you
+
+
+do that now remember we want to find a
+
+
+storage system that will fit your data
+
+
+not the other way around what you don't
+
+
+want to do is go on hacker news and find
+
+
+something that sounds cool and start
+
+
+rolling that into production you're
+
+
+going to have a bad time answers to
+
+
+questions like what type how much and
+
+
+how structure the data is can start to
+
+
+give a picture of what it is you're
+
+
+really working with well spend almost
+
+
+all our time today on the type most data
+
+
+stores are a good fit for one type of
+
+
+data or another and the question of type
+
+
+usually answers some of those other
+
+
+questions for you now in tabletop
+
+
+role-playing there are types for
+
+
+characters too when you're building a
+
+
+character to play the first thing you
+
+
+select is the race or species most games
+
+
+have about a dozen races based in
+
+
+fantasy tropes like elves dwarves and
+
+
+the like so we'll pick some races for
+
+
+our different data types just so we can
+
+
+put a face on these things and maybe the
+
+
+game lore will tell us a little bit
+
+
+about what they're like we'll start with
+
+
+event data very basic data type
+
+
+something happen we have a record of it
+
+
+here I've given it the human race in the
+
+
+role playing lore it's a very flexible
+
+
+class has the shortest lifespan good at
+
+
+lots of things
+
+
+this kind of data is common in
+
+
+monitoring systems AdTech analytics very
+
+
+very commonly seen not all data stores
+
+
+treat it like a first class thing but
+
+
+you're almost always going to work with
+
+
+it somehow again in role-playing the
+
+
+next thing you pick when you're building
+
+
+your character is a class or job each
+
+
+race has some classes or jobs that
+
+
+they're a good fit for and some they're
+
+
+not so for example if you want to play a
+
+
+magic using class you should pick a
+
+
+magic using race so let's pick a class
+
+
+of data store for our species of data
+
+
+this brings us to insights represented
+
+
+here by the human fighter this should
+
+
+remind you of the character sheet we saw
+
+
+earlier got some personality
+
+
+descriptions on the left and for comedy
+
+
+some stats on the right this is a
+
+
+versatile adaptable data store no major
+
+
+weaknesses it has some issues around
+
+
+large data so if you have a very big
+
+
+event you probably shouldn't use it if
+
+
+you have a very fast stream of smallish
+
+
+events that you want to query any way
+
+
+you want it's going to get you there if
+
+
+you prefer something non-commercial
+
+
+we've had good luck with graphite
+
+
+elasticsearch and in flux DB these are
+
+
+going to require more work from you to
+
+
+make them get going but you get to run
+
+
+it yourself and sometimes that's
+
+
+important not only event data is
+
+
+discrete sometimes you can summarize a
+
+
+series of events over a period of time
+
+
+that's time slice data sometimes a
+
+
+summary is enough and the reason you
+
+
+would do that is because you can store
+
+
+hundreds of times more data as a summary
+
+
+than by storing every event you can't
+
+
+get the individual events back once
+
+
+they're stored in this kind of system
+
+
+but again often that's fine you can get
+
+
+the average you can get the max you can
+
+
+get them in you might see this kind of
+
+
+data and weather or scientific
+
+
+observations anywhere where the overall
+
+
+view of it is plenty cassandra is a
+
+
+great fit for this kind of data I've
+
+
+classified it as the bard because it
+
+
+always needs supporting characters
+
+
+around it there's a couple out there for
+
+
+time series data specifically one called
+
+
+kyros DB and another one from Dell
+
+
+called der Addis these form a layer that
+
+
+understands time series data natively on
+
+
+top of the Cassandra storage back end
+
+
+for smaller volumes of Time series data
+
+
+you could probably just use graphite the
+
+
+best thing that about Cassandra for this
+
+
+use case is its extreme scalability when
+
+
+you need to store a lot of time series
+
+
+data you're going to outgrow graphite
+
+
+you're going to run it on a big server
+
+
+with a whole
+
+
+lot of ssds it's not very fun with
+
+
+Cassandra you just scale it out this is
+
+
+relational data every almost everyone
+
+
+has some kind of relational data
+
+
+somewhere this is a typical sequel
+
+
+database your MySQL as your post presses
+
+
+of the world like the elf here sequel
+
+
+loves to build ornate complex data
+
+
+structures that will live forever if you
+
+
+have financial medical or auditing
+
+
+records any kind of PII data this is the
+
+
+kind of system that's going to care for
+
+
+them for this will come back to postgres
+
+
+like the wizard here postgres is a
+
+
+really powerful database always acting
+
+
+within constraints on its behavior
+
+
+probably not your first choice for
+
+
+machine generated data but that's okay
+
+
+because you're almost always going to
+
+
+need one part of your system or another
+
+
+one datastore one feature one component
+
+
+that needs this level of consistency and
+
+
+durability if your answers to the
+
+
+questions about how big and how fast are
+
+
+things like tens of terabytes and tens
+
+
+of gigabits then you're probably going
+
+
+to need something else to support this
+
+
+but if your answers to questions about
+
+
+structure and consistency are incredibly
+
+
+and perfectly you're going to need
+
+
+postgres somewhere another very common
+
+
+type binary and blob data I've
+
+
+represented it with the dwarf here in
+
+
+Game lore a very conservative and
+
+
+flexible race likes to build big
+
+
+underground civilizations anybody
+
+
+dealing with user-generated content
+
+
+images videos documents this sort of
+
+
+thing is going to be working with binary
+
+
+data it tends to specialize based on the
+
+
+type of binary data so if you have
+
+
+systems that are really excuse me if you
+
+
+have systems that are specializing in
+
+
+images they're going to understand a lot
+
+
+about images and putting a video and
+
+
+there isn't going to work as well best
+
+
+place to put this data is s3 like the
+
+
+palate in here it's a very principled
+
+
+system stores blobs got a little bit of
+
+
+magic around how it's you know keeps
+
+
+them durable and moves them around the
+
+
+world for their availability but mostly
+
+
+it's about the blobs so the pattern
+
+
+tends to be you store the file in s3 and
+
+
+the metadata for example in images the
+
+
+width the height the format in a
+
+
+different system like an event store or
+
+
+a sequel store you wouldn't store the
+
+
+whole file in the database that kind of
+
+
+ends up bad so you store the address to
+
+
+it an s3 in the database now with any
+
+
+data store you're going to find some
+
+
+optimization that would be helpful but
+
+
+which can't be applied directly in this
+
+
+system so you might enter a caching
+
+
+system excuse me you might come up with
+
+
+some tool like a cash to put on the side
+
+
+and help improvement so here's the
+
+
+gnomes gnomes are inveterate tinkerer is
+
+
+always coming up with some tool to
+
+
+improve things I recommend two different
+
+
+caching solutions one more structured
+
+
+and one more scalable we'll start with
+
+
+the structured one this is Redis it's
+
+
+good at things like sets and hashes and
+
+
+atomic counters disarming concurrency
+
+
+traps that can get you in trouble hence
+
+
+his class of thief it is pretty small
+
+
+scale you're going to need something
+
+
+bigger to support it when the scale gets
+
+
+big pair this up with a half work and
+
+
+you're going to have a pretty powerful
+
+
+structure at some point you will
+
+
+probably outgrow it if you're using it
+
+
+for a very large system it scales to
+
+
+about a single machine it has replicas
+
+
+for failover but it's not natively
+
+
+clustered if and when you outgrow Redis
+
+
+you want to use memcache a more
+
+
+versatile system in terms of scale but
+
+
+much less structured like the Ranger
+
+
+it's very adaptable a lot of systems can
+
+
+use it in a lot of different ways it's
+
+
+pure key value though no data types
+
+
+other than strings and counters if you
+
+
+want to get structure into it you can
+
+
+serialize it into string historically
+
+
+it's had really poor persistence it
+
+
+won't actually write to disk it doesn't
+
+
+necessarily have replication for those
+
+
+things you can pair it with a product
+
+
+called Mick router come out of Facebook
+
+
+about last year it will do replication
+
+
+on top of memcache so you speak to your
+
+
+Mac router instance and it goes down to
+
+
+memcache and you can set up more complex
+
+
+structures with it so there are some
+
+
+options for different data types when
+
+
+you're thinking about how to use these
+
+
+remember production is a chaotic place
+
+
+reality is a real jerk of a dungeon
+
+
+master your data store has to withstand
+
+
+a lot of chaos when it faces your users
+
+
+so you they need to form a strong
+
+
+partnership a party if you will see in
+
+
+tabletop role-playing you never play
+
+
+alone you work alongside the other
+
+
+players to form a party of characters
+
+
+that bring their specialties to the
+
+
+fight so what does it look like the form
+
+
+an effective party you should start by
+
+
+picking characters that compensate for
+
+
+the others weaknesses if you already
+
+
+have a sequel database and you know
+
+
+you're going to scale to get a lot of
+
+
+collected data you should add something
+
+
+that specializes in data collection if
+
+
+you already have a cache
+
+
+and you need something that's bigger and
+
+
+simpler you should add one that does
+
+
+that you should pick characters that are
+
+
+well suited to their tasks you should
+
+
+try not to adapt a sequel storage
+
+
+restoring binary data is just not what
+
+
+it's meant to do it would probably be
+
+
+better to pick something that's designed
+
+
+for that finally you should pick
+
+
+characters you understand if you need a
+
+
+sequel database and you hate postgres
+
+
+and you've spent 10 years with mysql
+
+
+just use mysql and know what it's good
+
+
+for you're going to need to understand
+
+
+these systems to think like them to
+
+
+inhabit the way that they see the world
+
+
+if you're going to help it grow to be
+
+
+big enough to serve your product and
+
+
+server users well here's an example
+
+
+these are some features from our
+
+
+synthetic product time series trace and
+
+
+configuration data respectively they're
+
+
+storing these and insights backed by NR
+
+
+d be s 3 and postgres represented here
+
+
+by the human fighter dwarf paladin and
+
+
+elf wizard which if you've been
+
+
+role-playing makes a pretty strong party
+
+
+so by picking these data stores that are
+
+
+so well-suited for their purpose the
+
+
+synthetics product gains some big
+
+
+advantages they could spend more
+
+
+engineering time on what's unique about
+
+
+their product and much less on what's
+
+
+interesting about storing time series
+
+
+data their individual features are very
+
+
+resilient and isolated from failure
+
+
+because they run in completely separate
+
+
+systems and they can scale them
+
+
+independently if they were to release a
+
+
+feature that involved recording much
+
+
+more time series data there's only one
+
+
+of the systems that would need to get
+
+
+bigger and the others could be left
+
+
+alone in their stable state we spent a
+
+
+lot of time talking about what type of
+
+
+data you might have and some services
+
+
+that will be a good fit but that's just
+
+
+a start you should spend time on these
+
+
+other questions too they will get
+
+
+answered eventually either by you or by
+
+
+your users you may find issues of scale
+
+
+and structure make one of the systems
+
+
+I've covered today a poor fit or that
+
+
+your application is so radically
+
+
+different that you need something
+
+
+completely otherworldly but you need to
+
+
+do your research and think about the
+
+
+type and what its suited for so by
+
+
+picking proven data stores suited to
+
+
+your service in its needs you can be
+
+
+equipped to face the chaos of production
+
+
+by picking ones that complement one
+
+
+another you can scale quickly and stay
+
+
+available so go forth form your party
+
+
+and ship a great service
+
+
+we have a few minutes for questions
+
+
+there are two microphones set up on any
+
+
+child please come up to the microphone
+
+
+and ask your question I'm glad to have
+
+
+someone I mean ask me what I had for
+
+
+breakfast for heaven's sake like he's
+
+
+super nice wonder why I didn't pick my
+
+
+SQL or why I didn't pick your favorite
+
+
+storage system yes hey if for some
+
+
+reason you're living in the dark ages
+
+
+and not in the cloud yet do you have
+
+
+recommendations for binary data besides
+
+
+s3 okay so that i don't know that space
+
+
+as well in terms of on prem I've had the
+
+
+luxury of you know being able to use s3
+
+
+in most contexts I've heard good things
+
+
+about cinder which is the OpenStack
+
+
+binary storage system for on Prem and
+
+
+then there are I'm totally forgetting
+
+
+the names but i would love to hook up
+
+
+with you afterwards there are systems
+
+
+that run on top of Cassandra that use it
+
+
+as the backing store for blobs much like
+
+
+Kairos TB for Time series there's a hand
+
+
+being raised please come up to the
+
+
+microphone if you have something to say
+
+
+yes I think you mean swift swift that's
+
+
+the object stores oh okay store you'll
+
+
+forgive me there are very many projects
+
+
+and opens to hell right what does cinder
+
+
+do out of curiosity that's the block
+
+
+storage project for lock storage thank
+
+
+you it's really easy to ask a question
+
+
+after our speaker get something wrong I
+
+
+personally feel a lot more comfortable
+
+
+asking questions you can't go wrong
+
+
+there I mean come on yes I did I did
+
+
+have a question I am I was kind of
+
+
+curious as far as when you actually do
+
+
+the ingest of data do you guys use
+
+
+Cassandra you know into sort of store
+
+
+some of that or are using DynamoDB do
+
+
+you know I can you share some of that
+
+
+sort of like magic we use a variety of
+
+
+systems depending on the product n rdb
+
+
+handles a lot of data a mysql handles
+
+
+quite a bit as well we have some
+
+
+products that use Cassandra that'd be
+
+
+something i love the talk after if
+
+
+you're there's ok cific question you
+
+
+have it well the event types because I
+
+
+was kind of looking at you know you were
+
+
+kind of characterizing then who's kind
+
+
+of curious about like you know what
+
+
+would kind of con
+
+
+two days you mentioned some consoling
+
+
+drove but on a wandering Dino DynamoDB
+
+
+sort of like in that same area we do use
+
+
+a little bit of dynamo dynamo DB but
+
+
+it's not for any of the time series data
+
+
+that we have but it can be used for that
+
+
+pretty well okay yeah what's better in
+
+
+your opinion like thought oh you didn't
+
+
+mention um performance particularly the
+
+
+criteria he was lower down but does the
+
+
+memory databases coming out now which is
+
+
+like you know 30 times faster things do
+
+
+you want to talk about that a bit yeah
+
+
+in-memory databases are great times
+
+
+their most applications have to write to
+
+
+disk somewhere if you have a system that
+
+
+has a really short retention period for
+
+
+your data or where availability or
+
+
+failover is like not that important in
+
+
+memory can work really well you will
+
+
+sometimes see that in like finserv where
+
+
+they have just like throughput is king
+
+
+or adtech where they have to have this
+
+
+stuff available and really really fast
+
+
+all the time rattus works is I think a
+
+
+good fit there too as well it's kind of
+
+
+got a little bit of both they have their
+
+
+place I don't know that there's a type
+
+
+of data that I can make a recommendation
+
+
+say like you should put this in an
+
+
+in-memory database usually sort of get
+
+
+backed into an in-memory database that
+
+
+answer your question cool and then to
+
+
+your question about whether i prefer
+
+
+dynamo or Cassandra i think that one
+
+
+comes out comes down to whether you need
+
+
+to use it yourself or whether you can
+
+
+get away with just paying for dynamo
+
+
+that seems to decide those issues
+
+
+because their data structures do tend to
+
+
+be similar enough that you can typically
+
+
+use one or the other yes so my question
+
+
+is just give you an example in my
+
+
+situation we have very large amounts of
+
+
+data with very mixed loads so when you
+
+
+say storage is king i'm curious on the
+
+
+database side how you handle large
+
+
+amounts of data that have very different
+
+
+patterns well if you can get away with
+
+
+it you should put them in different data
+
+
+stores I mean that seems to be kind of
+
+
+our experience so far has been when you
+
+
+have a type of data that behaves a
+
+
+certain way you should try to put it in
+
+
+a system that's good for that and avoid
+
+
+mixing if you have one type of data that
+
+
+is a high-throughput steady-state stream
+
+
+and another type of three bursty
+
+
+you should try to isolate those systems
+
+
+from each other okay cool thank you yes
+
+
+yeah just to expand on that you focused
+
+
+on using the right tool for the right
+
+
+job can you expand on any challenges
+
+
+where you have to have these different
+
+
+tools work together well and like maybe
+
+
+it's nice for one tool to kind of know
+
+
+how data is stored in another tool yeah
+
+
+so the pattern we've employed a great
+
+
+success so far has been to have a
+
+
+service own its data so to the extent
+
+
+that you can have systems that own their
+
+
+own data behind them and other systems
+
+
+that need to work with that data only
+
+
+talked to the service fronting it you
+
+
+can win because you control access to
+
+
+the data and if there's a behavior that
+
+
+another service needs to understand
+
+
+about that system it just needs to
+
+
+understand it at the service interface
+
+
+level and not the data structure level
+
+
+so service inter-service communication
+
+
+is a big win there and the other one is
+
+
+that a service that owns its own data is
+
+
+very flexible in what it can do with it
+
+
+you could switch out the entire backend
+
+
+and have other services not care which
+
+
+is very very powerful you don't want to
+
+
+have being a world where anyone service
+
+
+needs to communicate with four other
+
+
+data types and four other databases and
+
+
+needs to understand their schemas it
+
+
+quickly turns into a Death Star
+
+
+architecture diagram really fast except
+
+
+you can't move anything everything the
+
+
+lines are set in stone so have services
+
+
+that front it that's a very important
+
+
+point thank you got time for maybe a few
+
+
+more questions anymore brave souls I see
+
+
+people moving yes you talk a little bit
+
+
+about some of the advantages of a time
+
+
+series data base database that's built
+
+
+specifically for time series data as
+
+
+opposed to one that is like general
+
+
+purpose yeah okay you know some of the
+
+
+tools and some of the features of those
+
+
+databases that help you yeah when you're
+
+
+storing time series so with time series
+
+
+data it's got a really really specific
+
+
+set of behaviors it comes in at a high
+
+
+rate it comes in at a steady rate it's
+
+
+got a certain resolution to it it's
+
+
+going to be queried over a time window
+
+
+and
+
+
+going to expire at a given time a lot of
+
+
+data stores aren't really designed for
+
+
+that kind of flow if you can do that in
+
+
+for example postgres but the assumptions
+
+
+that postgres makes about the world tend
+
+
+to be that the data that you put into it
+
+
+is going to be there either forever or
+
+
+until someone deletes it at a random
+
+
+time and the ability to for example
+
+
+automatically aged out data or design it
+
+
+around you know always being queried
+
+
+over a time window has to be written on
+
+
+top of it Cassandra for example and one
+
+
+of the reasons i recommend it has ttls
+
+
+built into the system as a first class
+
+
+object so when you write data into it
+
+
+you can tell cassandra this should only
+
+
+live for a month or a year or six months
+
+
+and it'll just sort of take care of it
+
+
+for you it's not free but it's a
+
+
+first-class operation it also does range
+
+
+queries natively so when you have a row
+
+
+in the system that has timestamps you
+
+
+can say give me the cells of data from
+
+
+this time to that time and it's just a
+
+
+single scan off the disk so it's
+
+
+extremely efficient to do that it
+
+
+understands that that thing is linear so
+
+
+there's some important behaviors there
+
+
+and having that more of those things we
+
+
+first class in your system gives you
+
+
+more leverage to actually do interesting
+
+
+things with your product than just sort
+
+
+time series data yes I'm curious about
+
+
+queues and how you might use them in
+
+
+conjunction with so if you watch matthew
+
+
+and nick's talk about our Kafka system
+
+
+Kafka is a great q we've been extremely
+
+
+happy with it you can use other systems
+
+
+for q is the most common small scale q
+
+
+that I've worked with is Redis it's
+
+
+pretty darn good for that as well but if
+
+
+you want something with like multiple
+
+
+consumers or you want to be a big scale
+
+
+or have any kind of persistent story
+
+
+that's for real Kafka's the way to go
+
+
+you've got time for maybe one more
+
+
+question unless you all really want to
+
+
+go to a break three minutes early
+
+
+anybody I her giggle so I'm assuming
+
+
+that's a yes all right well wait one
+
+
+microphone treybourne I do if you want
+
+
+to mind thank you um you mentioned
+
+
+you're using Kafka yes
+
+
+our do you have any issues with related
+
+
+to encryption in using Kafka because it
+
+
+seems like something I don't know if
+
+
+they've fully enabled ssl for all that
+
+
+are you thinking about encryption from
+
+
+transport or storage as far as people
+
+
+who the systems that publish to it and
+
+
+subscribe to it right so we're some
+
+
+questions you know do we do transport
+
+
+encryption in and out of Kafka so our
+
+
+Kafka system sits behind our SSL
+
+
+termination and all the systems that
+
+
+communicate with it for the most part
+
+
+are either within a VPN or within the
+
+
+firewall so we haven't actually had to
+
+
+set up Transport Security and Kafka so
+
+
+I'm afraid I don't actually know that
+
+
+was the fast question all right would be
+
+
+longer that was I sounded like so
+
+
+complicated to me I do webs I'm like
+
+
+this is so cool any other quite well to
+
+
+you last question um yes one more
+
+
+questions so let's say you build
+
+
+something with a key value store and you
+
+
+realize oh shoot like this wasn't the
+
+
+right tool can you talk about like have
+
+
+you run into problems where you have to
+
+
+migrate that to a different like
+
+
+relational database or that's not
+
+
+something I've done but I would love to
+
+
+talk to you about it that sounds hard
+
+
+and I think you know to that point this
+
+
+is why spending time thinking about the
+
+
+type up front as important like if if
+
+
+you thought that it was one type and
+
+
+then it's another yeah bummer nice well
+
+
+I'll be up here for questions afterwards
+
+
+by all means come up and argue about
+
+
+which data stores best let's talk
+
+
+there's no arguing there's gentle
+
+
+conversations Gus and hushed reverent
+
+
+tones all right so big round of applause
+
+
+for Jonathan everybody thank you so much
+
+
+you

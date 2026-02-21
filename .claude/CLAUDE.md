@@ -42,5 +42,8 @@ Create new posts in `_posts/` with filename format `YYYY-MM-DD-title.md` and fro
 ---
 title: "Post Title"
 date: YYYY-MM-DD
+author: Jonathan Owens
 ---
 ```
+
+Prefer using structured Markdown headers, lists and other objects to show emphasis via the structure. Use bold text sparingly, and never for headings or section titles.

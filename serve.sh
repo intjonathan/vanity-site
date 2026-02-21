@@ -1,2 +1,2 @@
 #!/bin/bash
-mise exec -- bundle exec jekyll serve
+mise exec -- bundle exec jekyll serve --incremental

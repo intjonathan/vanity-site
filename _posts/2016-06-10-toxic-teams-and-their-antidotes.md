@@ -60,7 +60,7 @@ Demand their attention at short intervals throughout the day, but never permit t
 
 ### Entangled dependencies
 
-![A Scientology Sea Org billion-year contract of employment](/assets/images/toxic-teams/slide-13.jpg)
+![A Scientology Sea Org billion-year contract of employment](/assets/images/toxic-teams/slide-13-3.png)
 
 Make your team's success dependent on their behavior, not your leadership. If you weren't so bad at making reliable software, we wouldn't have so many outages. If you really believed changing the world with an electric car was worth it, you'd be happy to work 100+ hour weeks for nothing but cereal. Our group is the only way to save humanity, we expect you to sign this billion-year contract.
 
@@ -92,18 +92,17 @@ Real change requires space to unfold. Ideas are desperately fragile when they're
 
 Love your Saturdays. The people you really love shouldn't need to pay you to spend time with you.
 
-Abdul Kalam, the 11th president of India and an excellent engineer, was super into this. He says "love your job but don't love your company, because you may not know when your company stops loving you. Work is a never-ending process. It can never be completed. A person who stays late at the office is not a hardworking person. Instead they are a fool who does not know how to manage work within the stipulated time. They are inefficient and incompetent in their work. You did not study hard and struggle in life to become a machine."
+Abdul Kalam, the 11th president of India and an excellent engineer, was super into this.
+
+> Love your job but don't love your company, because you may not know when your company stops loving you. Work is a never-ending process. It can never be completed. A person who stays late at the office is not a hardworking person. Instead they are a fool who does not know how to manage work within the stipulated time. They are inefficient and incompetent in their work. You did not study hard and struggle in life to become a machine.
 
 ### Unique pictures of success
 
 ![Rupert Grint serving ice cream from his Mr. Whippy ice cream truck](/assets/images/toxic-teams/slide-20.jpg)
 
-You don't really know what makes people happy. You don't. This is Rupert Grint, he played Ron Weasley in the Harry Potter movies. He's worth $40M, and likes to drive his ice cream truck around and give away free cones. He got rich and famous... now he does this. Letting people go do stuff like this drives ownership of the work and pride in its quality.
+You don't really know what makes people happy. You don't. This is Rupert Grint, he played Ron Weasley in the Harry Potter movies. He's worth $40M, and likes to drive his ice cream truck around and give away free cones. He got rich and famous... now he does this. Letting people go do stuff like this drives ownership of the work and pride in its quality. As [James Altucher puts it](https://medium.com/the-mission/the-most-common-mistakes-young-people-make-c047341ae43f):
 
-> ...get good at three or four or five things.
-> Then find the intersection.
-> Then become the best in the world
-> at the intersection. -- Altucher
+> ...get good at three or four or five things. Then find the intersection. Then become the best in the world at the intersection.
 
 ### Real, regular rewards
 
@@ -115,7 +114,7 @@ Rewards should be regular - predictable, uniform, and achievable. They should al
 
 ![Painting of Sisyphus pushing a boulder uphill](/assets/images/toxic-teams/slide-22.jpg)
 
-These antidotes help team members build Mastery, Autonomy and Purpose, which is what empowers people to take joy in their work. They also radically increase the risk that any or all of the team may leave. Their fear, addiction and primal attachment isn't keeping them there. They've got all this extra time to think about the things they'd like to be doing that aren't work, and you're rewarding them generously enough that maybe they just go pursue that. This is a real risk! And I say it is the cost of excellence.
+These antidotes help team members build [Mastery, Autonomy and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us), which is what empowers people to take joy in their work. They also radically increase the risk that any or all of the team members may leave. Their fear, addiction and primal attachment isn't keeping them there. They've got all this extra time to think about the things they'd like to be doing that aren't work, and you're rewarding them generously enough that maybe they just go pursue that. This is a real risk! And I say it is the cost of excellence.
 
 Know that the organization around your team and the resources that your team manages naturally tend toward sickness of all kinds. Companies go through stages of real scarcity, real high-tempo projects, real intermittent successes. Systems go through phases of crisis, outages, and dataloss. Money does get tight. But you must never blame your employees or expect their loyalty in the face of extreme situations.
 

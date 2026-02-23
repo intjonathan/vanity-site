@@ -1,0 +1,3 @@
+"When I'm at $company, I think about $company and I have to leave some of my personal opinions behind. "
+
+I don't like that framing. Too Severance. I would rather sit with the tension. I have to work in opposition to my values to feed my family. Long as I'm being paid here, we are all trapped in the belly of this horrible machine. I'm not going to pretend I like it, but it's a compromise I choose to make. It's not for everyone. It might not be for you. I encourage you to search your conscience. The sad reality is that if we don't embrace this technology, our competitors and our adversaries will, and we will be eliminated. This is true of basically all of our industry. Truly abstaining from AI usage would require retiring to a farm or something.

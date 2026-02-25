@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: intjonathan
-description: A Homepage
+description: Behold! My Stuff.
 repository: intjonathan/vanity-site
 
 plugins:
@@ -17,3 +17,6 @@ defaults:
 exclude:
   - CLAUDE.md
   - vendor
+  - talk-summaries
+  - serve.sh
+  - mise.toml

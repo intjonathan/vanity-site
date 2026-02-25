@@ -1,0 +1,1202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:blogger='http://schemas.google.com/blogger/2018'>
+  <id>tag:blogger.com,1999:blog-2793576348171340857</id>
+  <title>Answers to selected problems</title>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-10157981341651252</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Ada Byron was Homeschooled</title>
+    <content type='html'>Continuing this discussion from &lt;a href="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia"&gt;Geeknews&lt;/a&gt; and &lt;a href="http://greatjustice.info/university-versus-self-taught/"&gt;greatjustice&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The post at geeknews doesn't make much of a statement except in the title, but since this is a generally inflammatory topic, they've earned a pile of readership from that alone. And to prove I'm not the guy with the degree trumpeting the wonders of &lt;a href="http://www.theamericanscholar.org/su08/elite-deresiewicz.html"&gt;elitism&lt;/a&gt;, I went to a second-place state college. Even that was a better education than I could've managed on my own, but then it doesn't take MIT to do that.&lt;br /&gt;&lt;br /&gt;I've been a vocal supporter of bootstrapping your way into other careers for a couple years now, but recently have changed my mind. I think the question of degree vs. hard knocks goes deeper than the "value of an education" or "real-world experience". Those are great things, but what will really turn a journeyman to a master is &lt;a href="http://projects.ict.usc.edu/itw/gel/EricssonDeliberatePracticePR93.pdf"&gt;deliberate practice&lt;/a&gt; (PDF).&lt;br /&gt;&lt;br /&gt;According to Ericsson, et. al., to really be deliberate practice, not just any task will do: &lt;blockquote&gt;The most cited condition [for optimal improvement] concerns the subjects' motivation to attend to the task and exert effort to improve their performance. In addition, the design of the task should take into account the preexisting knowledge of the learners so that the task can be correctly understood after a brief period of instruction. The subjects should receive immediate informative feedback and knowledge of results of their performance. The subjects should repeatedly perform the same or similar tasks.&lt;/blockquote&gt;This probably sounds obvious, but take a step back. What they're asserting is that &lt;em&gt;learning is doing&lt;/em&gt;. It is a &lt;em&gt;task&lt;/em&gt;. You can sit on your ass reading CS articles on Wikipedia for 4 years and never learn how to write a program. You could even read through MIT's "Structure and Interpretation of Computer Programs" &lt;a href="http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-001Spring-2005/CourseHome/index.htm"&gt;course material&lt;/a&gt; for free and not learn a damn thing about Scheme. &lt;br /&gt;&lt;br /&gt;Whether you're learning from Wikipedia, a professor, a colleague, or a book, you're not going to start learning till you care about the subject and start stretching. A great programmer is one that is not afraid to do just that, and at the end of the day it doesn't matter whether he went to college or not. He will be great because he wanted to be and was not afraid to do what it takes to get there: intentional, deliberate, ongoing practice. &lt;br /&gt;&lt;br /&gt;This practice of learning has been around much longer than universities. The system of apprenticeship survived for thousands of years. Any good tutor can create the above conditions for their student, but at the end of the day it is the student that must put the &lt;em&gt;work&lt;/em&gt; in, not just the reading. Or the student can put that work in even without a tutor, though it will take much more effort.&lt;br /&gt;&lt;br /&gt;So when hiring, look for the curious, unafraid, diligent one. Don't let a degree fool you into thinking that, just because they had the opportunity to learn, they did anything but read.&lt;br /&gt;&lt;br /&gt;Further reading: A &lt;a href="http://weblog.raganwald.com/2008/01/no-disrespect.html"&gt;Reg Braithwaite post&lt;/a&gt; in a similar vein.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2008-06-22T18:32:44.535Z</blogger:created>
+    <published>2008-06-22T18:31:00Z</published>
+    <updated>2008-06-24T04:50:02.987Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2008/06/ada-byron-was-homeschooled.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-89127257873040405</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>How to attend a tech industry conference</title>
+    <content type='html'>Good search results for guides on how to attend conferences were sorely lacking, so here's my attempt. I recently attended my first work conference, Railsconf 2012 in Austin, TX. Here's a guide based on limited experience and extensive conjecture.&lt;br /&gt;
+&lt;br /&gt;
+First, you need to know why you're going:&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;If you are paying your own way, your goal is to get hired by a company that will pay to send you next time.&lt;/b&gt; You should never have to pay for your tickets to an industry conference if you are gainfully employed in that industry. The good news is, conferences are a great way to skip the HR/Recruiter/cover letter nonsense and talk directly to people with hiring juice.&lt;br /&gt;
+&lt;div&gt;
+&lt;br /&gt;
+&lt;b&gt;If your company is sending you, your goal is to sell it and by&amp;nbsp;extension, you. &lt;/b&gt;Whether you're recruiting, selling your product, or just marketing, your goal is to get your name out there and associate it with good feelings and respect. However, if your company is sending you and you're looking to get hired elsewhere, you'll have to submarine as someone with the first goal. Discretion is advised!&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;
+&lt;div&gt;
+Depending on which of these goals you're after, you're going to have a very different conference.&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;h4&gt;
+
+Three months before you leave or 1 month before the speaker application deadline, whichever comes first&lt;/h4&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply to be a speaker. A great way to get Internet Famous in your industry is to give a lot of memorable conference talks. The best way to give a memorable conference talk is to talk about something in your industry that you're passionate about and skilled with. So figure out what that is, make a slide outline, and apply with it.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Lock in your hotel reservation. You want to stay in the conference hotel, both so you can get the room block prices the conference negotiated, and so you can maximize your opportunity for passing interactions with notable people. Room blocks often fill up, so plan ahead.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Start researching flights. &lt;a href="http://blog.penelopetrunk.com/2012/04/27/how-to-travel-for-business-if-you-travel-a-lot/"&gt;Don't take the redeye&lt;/a&gt;, or take it on the return trip if you must.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Start stalking notable industry companies and likely conference attendees from those companies. Your goal is to make a crib sheet of notable people with short bio and picture, and conversation starters for each one. This might sound creepy, but conferences are intense and you're likely to forget all your research when you're 10 feet away from someone who could &lt;a href="http://blog.penelopetrunk.com/2007/07/09/how-to-start-a-quality-conversation-with-someone-you-dont-know/"&gt;change your life with a conversation&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+
+One month before you leave&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out all the sponsored extracurricular events, including vendor panels, offsites, parties, etc. RSVP as necessary. See above for the crib sheet, these can be great opportunities to ask burning questions and get immediate feedback, or to meet otherwise hard to reach people. At many conferences these are where the real action is, so don't pretend like they're just fluff.&lt;/li&gt;
+&lt;li&gt;Know your surroundings. Yelp is great for this. You should have at ready hand two restaurants, two bars, and an open-late grocery store within walking distance of your hotel. If you need to take a prospect out for drinks, or find a late night snack, you'll already know where to go. Also scope out local attractions if you're taking extra time to sightsee.&lt;/li&gt;
+&lt;li&gt;Lock in your flights and other travel needs if you haven't already. Tripit should have everything in it to whatever level of detail you feel comfortable.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;If you've applied to speak, you should have&amp;nbsp;received&amp;nbsp;word of your approval by now. It's time to make your presentation sing. There's a &lt;a href="http://www.walkingpaper.org/695"&gt;whole&lt;/a&gt; &lt;a href="http://www.presentationzen.com/"&gt;curriculum&lt;/a&gt; &lt;a href="http://www.to-done.com/2005/07/how-to-give-a-great-presentation/"&gt;worth&lt;/a&gt; of material on how to present well, from which I'll pull two key points: 1) Make great slides by following Zach Holman's &lt;a href="http://zachholman.com/posts/slide-design-for-developers/"&gt;example&lt;/a&gt;, and 2) practice it till it's polished, with real people. Under no circumstances should you be delivering this talk for the first time at the conference. Practice with your company, your family, and a local interest group until it's easy. Even if you got turned down, do all this anyway. You might get a chance to present it.&lt;/li&gt;
+&lt;li&gt;If you're going to be looking for a new gig, finish up your resume updating. It should be in great shape and ready to hand to anyone in your industry. Have it in PDF to email immediately, and a few printouts for the old-fashioned types.&lt;/li&gt;
+&lt;li&gt;Start watching the backchannel traffic (probably on Twitter) for event promotions and notable attendees.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Get a mobile wireless solution, whether phone tethering or a dedicated device. Unless you're going to WWDC, the conference wifi is guaranteed to suck, so have a backup, especially if you're presenting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+
+At the conference&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Mix it up. Be sure to rope strangers into what you're doing, or be interested in what others are up to. You probably know very few people here, and the ones you don't know are&lt;a href="http://en.wikipedia.org/wiki/Mark_Granovetter#cite_note-1"&gt; the most valuable&lt;/a&gt;. Invite, ask, repeat.&lt;/li&gt;
+&lt;li&gt;Be open to schedule change. Conferences are very fluid environments and there's a lot of betting on which talks will be good, but sometimes things don't work out. Don't get married to a schedule, follow the action.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Listen on the backchannel. Most conferences use a Twitter hashtag for discussion. Pay attention and participate, especially if you're speaking.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Take and contribute notes. An iPad or notebook should always be near at hand for jotting down that new project name or Twitter personality.&lt;/li&gt;
+&lt;li&gt;If you're speaking, market your talk and make the material available immediately after the talk. Use the backchannel and your blog to market it.&lt;/li&gt;
+&lt;li&gt;Stalk your important people. Parties and booths of prominent sponsors are a good place to find them. Watch activity about them on Twitter, a search can be helpful. Something like '@personality #conferencetag' can be good for sightings.&lt;/li&gt;
+&lt;li&gt;Wear your swag. Make some if necessary. (Though if you're looking to get hired, avoid your current company's swag.) The name tag isn't nearly enough advertising for what you're about. If you're looking to get hired, make a shirt that says so, or make one with your current venture on it.&lt;/li&gt;
+&lt;li&gt;Don't get hung over. Conferences are like a treadmill of incoming stuff and opportunities, getting too overextended is a great way to miss things. Plus, you want to be Internet Famous for the right reasons. You aren't really off the clock ever while you're there, because you're representing your name and company even at the bar.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Don't forget to have fun. Networking 18 hours a day will leave you drained. Take time to recharge, whether it be a midday nap, a night where you tuck in early, or just take one of the parties to take off your business hat and enjoy a free cocktail.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+
+After the conference&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow up. You probably collected several business cards and discovered new personalities. Sync up, follow new people, send notes of thanks to organizers and excellent presenters.&lt;/li&gt;
+&lt;li&gt;Write a recap and publish it. Be a journalist for others in your industry that couldn't attend, and give some big ideas and highlights.&lt;/li&gt;
+&lt;li&gt;Take the new knowledge from all the sessions you attended and all the new tools you discovered and make your daily work better.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;If you were looking for work, here's where you turn leads into interviews by completing applications and following up with contacts.&lt;/li&gt;
+&lt;li&gt;If you were selling your wares, here's where you turn leads into sales by closing the loop and reminding them of your conversation.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h4&gt;
+
+Further Reading&lt;/h4&gt;
+&lt;div&gt;
+Zach Holman's shorter&amp;nbsp;&lt;a href="http://zachholman.com/posts/how-to-survive-tech-conferences/"&gt;guide&lt;/a&gt;, David Risley's&amp;nbsp;&lt;a href="http://www.davidrisley.com/10-tips-for-attending-tech-conferences/"&gt;10 tips&lt;/a&gt;, and an OK set of&amp;nbsp;&lt;a href="http://www.businessknowhow.com/growth/conf10.htm"&gt;10 others&lt;/a&gt;&amp;nbsp;from some PhD. There's a good&amp;nbsp;&lt;a href="http://www.futuresimple.com/blog/make-the-most-of-a-conference/"&gt;infographic&lt;/a&gt;&amp;nbsp;as well, I like the percentage breakdowns. Here's an &lt;a href="http://runofnetwork.adzerk.com/tales-from-an-ad-salesman/best-practices-for-attending-adtech/"&gt;ad-industry one&lt;/a&gt; that's good.&lt;/div&gt;
+&lt;/div&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2012-04-30T16:33:15.168Z</blogger:created>
+    <published>2012-04-30T23:41:00Z</published>
+    <updated>2012-04-30T23:43:23.354Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2012/04/how-to-attend-tech-industry-conference.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-190494625747453512</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Bill Gates on focused design</title>
+    <content type='html'>&lt;blockquote&gt;"The finest pieces of software are those where one individual has a complete sense of exactly how the program works. To have that, you have to really love the program and concentrate on keeping it simple, to an incredible degree."&lt;/blockquote&gt;&lt;blockquote&gt;"We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing."&lt;/blockquote&gt;&lt;br /&gt;Unfortunately for Bill, his company is having a difficult time getting Windows back to something which resembles David Cutler's locomotive of an OS, which was itself birthed in a rather &lt;a href="http://www.amazon.com/Show-Stopper-Breakneck-Generation-Microsoft/dp/0029356717"&gt;chaotic manner&lt;/a&gt;. How disappointing to see his company forget these essential truths in their core products over the years. I think for them to compete with Apple or Google the way they want to, they're going to have to get back to this. Iconoclasm is something they've forgotten how to do well, and they're getting their asses handed to them for it.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-11-24T07:51:15.900Z</blogger:created>
+    <published>2007-11-24T07:50:00Z</published>
+    <updated>2007-11-24T08:04:08.639Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/11/bill-gates-on-focused-design.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-504713331027027561</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-10157981341651252</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>oops, forgot to mention that the url to greatjustice is broken.&lt;BR/&gt;&lt;BR/&gt;-andy</content>
+    <blogger:created>2008-06-24T04:08:32.515Z</blogger:created>
+    <published>2008-06-24T04:08:00Z</published>
+    <updated>2008-06-24T04:08:32.641Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-772904875292027757</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>On Elegance</title>
+    <content type='html'>Lately I've been working on a new media serving backend for Treemo. We've outgrown the features on our existing setup, and since the vast majority of our hits are content downloads, it's time to optimize those.&lt;br /&gt;&lt;br /&gt;One thing that we've discovered needs changing is the URL structure for our content. Most large content-focused sites like Flickr, Fotolog, or Imageshack use an unguessable portion of the URL to enforce visibility restrictions. This allows easy connection to a CDN, as you can simply pass out those URLs to a hosting service secure in the knowledge that they will only be presented to the appropriate people. Livejournal is an exception, they do authorization and byteserving on their balancers. We copied this setup initially, but as is the case with many Livejournal tools, we found we had to really go whole hog copying the rest of their setup (in this case, perlbal) to make it useful. So we're changing our approach.&lt;br /&gt;&lt;br /&gt;Obviously changing your URL scheme for embedded content is a rather major migration, and not to be done lightly. Among the many issues that have arisen during this process is what the URLs should look like. I spent a lot of time evaluating the Flickr URL scheme, as they're the biggest and we were looking to model their architecture instead of Livejournal's this time. One thing I came to appreciate about their scheme is the elegance. You can check it out here:&lt;br /&gt;&lt;br /&gt;http://www.flickr.com/services/api/misc.urls.html&lt;br /&gt;&lt;br /&gt;The longer I worked on various combinations of schemes that would give us the structure we wanted, the more I realized that their scheme included everything you needed and nothing you didn't, and did so in under 80 characters. Making something that nice or nicer became a goal. &lt;br /&gt;&lt;br /&gt;I got to the point of evaluating how to alter our object model to accommodate the new information that the filesystem would need to back up the new scheme, and darn if it wasn't hard. Adding the data I wanted was going to be expensive. There were easier schemes I could use involving long hashes or other things that would be just as secure, just as functional. But they'd be huge. And something in me didn't like that, and a few halfhearted dust-ups with my officemates found me unable to articulate why. &lt;br /&gt;&lt;br /&gt;Part of it felt like well, Flickr has already proved this scheme works. They've learned lessons about it that we don't haven't, so let's not reinvent the wheel here. But that doesn't get me very far. Other, easier schemes would work, and who cares what the URLs look like? &lt;br /&gt;&lt;br /&gt;And I couldn't escape the fact that I do, and I had to leave it at that.&lt;br /&gt;&lt;br /&gt;But the more I thought about it, stronger I felt that not only should a new scheme be functional, but it should be &lt;i&gt;nice&lt;/i&gt;. It should bear the mark of a system made with care for &lt;i&gt;people&lt;/i&gt;, not tools. I think the ability to make this small part of the system exceed requirements in an elegant and surprising way became important, because if all I do is make tools that work, I get bored. Anyone can write code that does what the customer wants. The magic happens when we make code the customer doesn't realize he wants. You might not realize that nice URLs make the system more humane to use, but when they're obnoxious, it's noticed. "Huh," your users will say, "that's funny-looking." Not a thought that should be going through your users' minds, even for the half-second their subconscious will think about it. &lt;br /&gt;&lt;br /&gt;I think we as developers have a lot of responsibility to think like a user even - maybe even especially - when it makes our jobs harder. Thinking for them helps us develop products that exceed their expectations, which allows teams to gel, which is the only way great products are made.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2008-03-11T05:09:47.889Z</blogger:created>
+    <published>2008-03-11T05:09:00.001Z</published>
+    <updated>2008-03-11T05:59:51.690Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2008/03/on-elegance.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-877324135363119820</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>PHP in a nutshell</title>
+    <content type='html'># is_writable — Tells whether the filename is writable&lt;br /&gt;# is_writeable — Alias of is_writable</content>
+    <blogger:metaDescription/>
+    <blogger:created>2008-02-05T19:15:44.481Z</blogger:created>
+    <published>2008-02-05T19:15:00.001Z</published>
+    <updated>2008-02-05T19:15:44.489Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2008/02/php-in-nutshell.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1039099840015091975</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Rails Migrations Best Practices</title>
+    <content type='html'>The City is a very long-lived Rails application and as such has accumulated over 600 migrations. We've had enough of them fail in enough interesting ways to learn some rules to follow when writing and applying them.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-size: large;"&gt;One Atomic Change Per Migration&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+Migrations create a schema version that your database applies atomically. That version should specify &lt;b&gt;one&lt;/b&gt; reversible change to the database. Generally speaking this means one &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;add_column&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: inherit;"&gt;, &lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;create_table&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: inherit;"&gt;, or &lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;add_index&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: inherit;"&gt; call per migration. This way if any of your migrations fail you can roll back one and only one migration with a &lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;db:rollback&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: inherit;"&gt;. Remember, just because you tested a migration with a dozen &lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;add_column&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: inherit;"&gt; calls doesn't mean it will actually apply in your live site - timeouts, connection errors, and more can all happen and you don't want to have to do SQL tricks to get a half-applied migration to complete.&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-family: inherit;"&gt;&lt;br /&gt;&lt;/span&gt;
+While it is conceptually nice to bundle an entire feature's worth of database changes into its associated migration - say you're adding a &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;Story&lt;/span&gt; model and you'd like to do something like this:&lt;br /&gt;
+&lt;br /&gt;
+&lt;pre&gt;
+class CreateStoryTable &lt; ActiveRecord::Migration
+  def self.up
+    create_table :stories do |t|
+      t.string  :title
+      t.integer :journal_id
+      t.integer :user_id
+      t.integer :account_id
+      t.timestamps
+    end
+ 
+    add_index :stories, [:user_id, :account_id, :journal_id]
+ 
+    add_column :journals, :stories_count, :integer
+  end
+ 
+  def self.down
+    remove_index :stories, [:user_id, :account_id, :journal_id]
+    drop_table :stories
+    remove_column :journals, :stories_count
+  end
+end
+&lt;/pre&gt;
+This is a &lt;b&gt;bad idea&lt;/b&gt;. While it's conceptually consistent, if that &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;add_column&lt;/span&gt; call fails, you'll be in a half-migrated state, where the database has been modified but the schema version has not.&amp;nbsp;The database will want to run this migration again the next time you run&amp;nbsp;&lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;db:migrate&lt;/span&gt;, but guess what? The table is already there, and the migration will fail once again.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-size: large;"&gt;Atomicity Must Be Preserved&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+Ok, so we have to finish running this migration. You could run a &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;db:migrate:redo&lt;/span&gt;, right? Sure, except redo is going to run the down migration, and the first thing it does is remove an index which was never created. You can't move the &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;remove_index&lt;/span&gt; line down below the &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;drop_table&lt;/span&gt; call because the index won't be there when the table is gone.&lt;br /&gt;
+&lt;br /&gt;
+Let's rewrite this migration to do the 3 things it needs to do in separate migrations:&lt;br /&gt;
+&lt;pre&gt;
+class CreateStoryTable &lt; ActiveRecord::Migration
+  def self.up
+    create_table :stories do |t|
+      t.string  :title
+      t.integer :journal_id
+      t.integer :user_id
+      t.integer :account_id
+      t.timestamps
+    end
+  end
+ 
+  def self.down
+    drop_table :stories
+  end
+end
+&lt;/pre&gt;
+&lt;pre&gt;
+class AddStoriesIndexOnUserAccountAndJournal &lt; ActiveRecord::Migration
+  def self.up
+    add_index :stories, [:user_id, :account_id, :journal_id]
+  end
+ 
+  def self.down
+    remove_index :stories, [:user_id, :account_id, :journal_id]
+  end
+end
+&lt;/pre&gt;
+&lt;pre&gt;
+class AddStoriesCountToJournals &lt; ActiveRecord::Migration
+  def self.up
+    add_column :journals, :stories_count, :integer
+  end
+ 
+  def self.down
+    remove_column :journals, :stories_count
+  end
+end
+&lt;/pre&gt;
+&lt;br /&gt;
+Much better. Now if you deploy this whole set of migrations and need to roll back the entire feature, you can just use &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;rake db:rollback STEP=3 &lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: inherit;"&gt;(if you want, but in the case of this example, you might not have to - see below)&lt;/span&gt;, or if any individual one fails you can roll back only the changes it made. &lt;br /&gt;
+&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-size: large;"&gt;Code-Safety Within The Release&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+As much as possible, avoid performing migrations that break compatibility with currently running code. Perform &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;remove_column&lt;/span&gt; and &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;drop_table&lt;/span&gt; migrations one release after the code change that drops dependency on them. If you're making a structure change that breaks compatibility, you're best off shipping a compatibility change first and migrating later. Pedro Belo at Heroku wrote the &lt;a href="http://pedro.herokuapp.com/past/2011/7/13/rails_migrations_with_no_downtime/"&gt;definitive guide &lt;/a&gt;to this. If you're not as sensitive to scheduled downtime, by all means take it first and ask questions later.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-size: large;"&gt;Time Your Tests&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+You should of course be testing your releases against production data before deploying them, and when doing so you must verify not only data correctness (&lt;a href="http://blog.carbonfive.com/2011/01/27/start-testing-your-migrations-right-now/"&gt;with tests&lt;/a&gt;&amp;nbsp;if you can) but change timeliness. If you have a migration that takes 20 minutes with production data and performs breaking changes, you had better know that in advance so you can prepare with either downtime or a staggered release.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-size: large;"&gt;No Code In Migrations&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+I know the Rails docs say it's ok (&lt;a href="http://guides.rubyonrails.org/migrations.html#using-models-in-your-migrations"&gt;with caveats&lt;/a&gt;) to use models directly in migrations, but having migrations do too much has been a source of problematic bugs for us in practice. If you have data changes that must be performed as part of the migration, they should be done in a rake task. That way the whole app in its post-migrated state is available to work on, and more importantly, as the size of your dataset grows, you can distribute large dataset transformation operations to a background process like Resque. On a large database, a call like &lt;span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"&gt;Product.all.each {...}&lt;/span&gt; could take a very long time, time you could save by parallelizing the work.&lt;br /&gt;
+&lt;br /&gt;
+This has its caveats too - it complicates release management by creating a separate task to do just to keep data correct, so YMMV. We've done this out of need because we have so much data.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span class="Apple-style-span" style="font-size: large;"&gt;No Shortcuts&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+Migrations, despite their simple appearance, are one of the easiest ways to screw yourself up and lose customer data. Back up before applying them, test and time them carefully, and don't get lazy. Your database is not like code, testing it for correctness and rolling back changes is not easy. Love your users by being rabid about keeping their trust, and they will love you back.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2011-09-30T21:12:34.355Z</blogger:created>
+    <published>2011-09-30T23:20:00Z</published>
+    <updated>2013-12-04T01:02:45.937Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2011/09/rails-migrations-best-practices.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1205680412908753006</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-10157981341651252</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>"inflammatory"? Dear sir, I resemble that remark. :)&lt;BR/&gt;&lt;BR/&gt;Seriously though, don't equate the degree with a job. That's what too many people do and frankly that's a position based on ignorance.&lt;BR/&gt;&lt;BR/&gt;In some of my replies both at GN and elsewhere, i've agreed that simply studying wikipedia won't get you a job, but I caution the naysayers against self-study vs. formal education. It's not the education a smart hiring manager is looking for in a candidate, it's their experiences, it's their coding capabilities and ability to learn and contribute value to the project. &lt;BR/&gt;&lt;BR/&gt;I think we're in agreement. So then, why frown on the idea of self-study, which leverages wikipedia, as an alternative to a CS degree when the knowledge gained is what bootstraps the ability to go code and learn and build your skills?&lt;BR/&gt;&lt;BR/&gt;Take care.</content>
+    <blogger:created>2008-06-24T04:07:00.562Z</blogger:created>
+    <published>2008-06-24T04:07:00Z</published>
+    <updated>2008-06-24T04:07:00.569Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1411845432511349970</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-190494625747453512</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>SPAM_COMMENT</blogger:status>
+    <author>
+      <name>القمر السعودى</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>&lt;a href="https://altaiyar.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a8%d8%a7%d9%84%d9%82%d8%b7%d9%8a%d9%81/" rel="nofollow"&gt;شركة تنظيف بالقطيف&lt;/a&gt;
+&lt;a href="https://altaiyar.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a8%d8%a7%d9%84%d8%ac%d8%a8%d9%8a%d9%84/" rel="nofollow"&gt;شركة تنظيف بالجبيل&lt;/a&gt;
+&lt;a href="https://altaiyar.com/%d8%b4%d8%b1%d9%83%d8%a9-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%af%d9%85%d8%a7%d9%85/" rel="nofollow"&gt;شركة مكافحة الحمام بالدمام&lt;/a&gt;
+&lt;a href="https://altaiyar.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a8%d8%b1%d8%a3%d8%b3-%d8%aa%d9%86%d9%88%d8%b1%d8%a9/" rel="nofollow"&gt;شركة تنظيف برأس تنورة&lt;/a&gt;
+</content>
+    <blogger:created>2020-09-14T10:09:33.247Z</blogger:created>
+    <published>2020-09-14T10:09:33.247Z</published>
+    <updated>2023-10-23T21:33:48.971Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1423815616081285488</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-6488655660012278456</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>AWS EC2 backup solutions</name>
+      <uri>https://n2ws.com/how-to-guides/automate-amazon-ec2-instance-backup.html</uri>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'>Good article... It is helpful to understand AWS EC2 backup. Thanks for sharing useful content.</content>
+    <blogger:created>2017-12-30T15:15:53.007Z</blogger:created>
+    <published>2017-12-30T15:15:53.007Z</published>
+    <updated>2017-12-30T15:15:53.007Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1494096855575371163</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-3575449772367607859</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Trasher</name>
+      <uri>http://www.trash-factor.com</uri>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'>Nice article. But I can&amp;#39;t see the advantage. Converting from ISO-8859-1 to UTF-8 the way you do, just changes the data format, but doesn&amp;#39;t expand the available characters. For example, escaping dynamic content for HTML like {$content|escape:&amp;#39;HTML&amp;#39;} will still not be UTF-8 compliant. Actually, smarty will in this case not display anything, if $content contains UTF-8 chars.
+
+Going a bit further, converting a page to UTF-8 using your method results in HTML forms to be submitted with UTF-8 encoding. The server-side script will likely not be able to handle that, or at least Smarty will not be able to display it properly, because of the escape:&amp;#39;html&amp;#39; problem described above.
+
+In fact, supporting UTF-8 is much more than just converting the template output. You should add a bold WARNING to your article and tell about these disadvantages before they mess up their sites with lots of subtile errors.</content>
+    <blogger:created>2010-05-24T10:53:16.610Z</blogger:created>
+    <published>2010-05-24T10:53:16.610Z</published>
+    <updated>2010-05-24T10:53:16.610Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1882158374581613415</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>More on practice</title>
+    <content type='html'>In a &lt;a href="http://www.codinghorror.com/blog/archives/001138.html"&gt;great post&lt;/a&gt; by Jeff Atwood.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2008-06-27T23:16:32.343Z</blogger:created>
+    <published>2008-06-27T23:15:00Z</published>
+    <updated>2008-06-27T23:16:46.774Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2008/06/more-on-practice.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-1996741506895486207</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>On ensuring conceptual integrity in systems design</title>
+    <content type='html'>&lt;a href="http://en.wikipedia.org/wiki/Fred_Brooks"&gt;Fred Brooks&lt;/a&gt; outlines 3 essential points about systems design:&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt; Conceptual integrity is &lt;i&gt;the&lt;/i&gt; most important consideration&lt;br /&gt;&lt;li&gt; Deciding precisely what to build is the hardest part &lt;/li&gt;&lt;br /&gt;&lt;li&gt; The focus of any organizational structure must be on solving the critical need for communication &lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;Some of these depend on each other, which can be represented graphically:&lt;br /&gt;&lt;img src="http://img442.imageshack.us/img442/2409/greatteamsba6.png" width=731 height=342 title="" &gt;&lt;br /&gt;&lt;br /&gt;Of course, you can't just do these things in order. Over the course of everyone actually building the thing, decisions about what it will do must be revisited.&lt;br /&gt;&lt;img src="http://img208.imageshack.us/img208/5126/requirementcycledn1.png" width=437 height=334 title="" &gt;&lt;br /&gt;&lt;br /&gt;So, to make a great system, first one must decide what it will do, then ensure that its concepts remain coherent, then communicate constantly and easily with everyone building it. At Treemo, I sit right at the second step in that list, and am working on becoming better at the third, as it is increasingly required of me.&lt;br /&gt;&lt;br /&gt;Anyway, these concepts are software engineering 101. Every tool, process, idea, program, or proposal that crosses my desk is going to have this diagram applied to it. "Does this thing solve a communication problem and/or reinforce our software's conceptual integrity?" It seems simple, but most things don't pass. Sometimes I feel like people turn their brains off when evaluating things like this. &lt;a href="http://www.gamearchitect.net/Articles/SoftwareIsHard.html"&gt;Software is hard&lt;/a&gt;, yes, but process of making it is over 50 years old, and the thousands of software projects that have lived and died in that time can tell us a LOT about how to make solving that hard problem easier. We have such ignorance of our history in this industry. I've only been a professional developer for a year now, and I've reinvented hundreds of wheels both in my code and in my organization. It's exhausting sometimes. &lt;br /&gt;&lt;br /&gt;Also worth addressing are the blocks on the bottom of the first diagram: transparent trust, shared vision, and sharp tools. &lt;br /&gt;&lt;br /&gt;First, you're not going anywhere in any company if you can't trust those around you. The need in software for fluent, open communication cannot be met without grab-my-hand-over-a-cliff trust. &lt;a href="http://joelonsoftware.com/"&gt;Joel&lt;/a&gt; is &lt;a href="http://joelonsoftware.com/articles/FieldGuidetoDevelopers.html"&gt;right about this&lt;/a&gt;, even though he doesn't come out and say it. Gifting your developers with offices, decision-making authority, and free lunches is a wonderful way to create a safe environment where they feel free to create and speak. &lt;br /&gt;&lt;br /&gt;Second, everyone making software must grasp their role in both the company and the development process. They must share that vision for their role and be enthusiastic about it, because if they're not, why are they working there? Being on-message is just as important for testers as it is salesmen.&lt;br /&gt;&lt;br /&gt;Finally, sharp tools must be available to everyone who needs them. Michelangelo was known to work so quickly and so hard that he would work all night with a candle on his head, chiseling furiously until the marble dust choked the air of his workshop. How many chisels do you think he owned? When you look at the &lt;i&gt;David&lt;/i&gt;, do you wonder at how much he spent on having them sharpened? This also ties in with the trust issue: put a fast computer in that office. &lt;br /&gt;&lt;br /&gt;Now, to build a company wise enough that I don't have to spend Sundays thinking about this stuff...</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-10-21T04:07:49.494Z</blogger:created>
+    <published>2007-10-08T00:07:00Z</published>
+    <updated>2007-10-21T04:10:58.058Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/10/on-ensuring-conceptual-integrity-in.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Interview pet peeves for today</title>
+    <content type='html'>&lt;p&gt;Really know the language that the company you are interviewing for uses. Don't think you can pull it out of your ass cause you worked in it 3 years ago. Languages change a lot. I don't have time to teach you how to deal with Exceptions in PHP 5, because frankly you aren't worth it if you can't do some homework before you come in for an interview. This goes doubly so if the posting says "PHP Developer" &lt;a href="http://seattle.craigslist.org/see/sof/467040330.html"&gt;right in the title&lt;/a&gt;.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;I know we're your fifth interview this week, and frankly I don't care. I get 60 minutes to evaluate whether to give you commit access to my code, code I've spent the last year preening over and perfecting. Separately, I have to evaluate whether I want to be stuck in a room with you for 8 hours a day, potentially for the next several years. You better be on your best behavior, and you better want it, and you better be excited, because if you come in here looking like you're just looking for something to do or a buck to make, you're going right back out the door. But if you want to &lt;span style="font-style: italic;"&gt;create&lt;/span&gt;, if you want to make something &lt;span style="font-style: italic;"&gt;beautiful&lt;/span&gt;, you'll be on my short list of favorite people, people on whom I'm going to tell my boss to spend a lot of money.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Have a passion that isn't code. It's not a dealbreaker if you don't, but I really like to see people with multi-disciplined lives. Back when you applied for college, there was a box labeled "Extracurricular activities". If you left that box empty back then, you should try and fill it soon, because it's there for a reason. Musicians write more interesting code. They see patterns I don't. Foodies know where all the good restaurants are. Gamers bring in their xboxes. Diversity in a small office is vital, because we're all going to spend more time here than at home, and if all we do is our jobs, we're going to run out of things to talk about real fast.&lt;/p&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-11-13T06:20:53.025Z</blogger:created>
+    <published>2007-11-13T06:19:00Z</published>
+    <updated>2007-11-13T06:42:16.388Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/11/interview-pet-peeves-for-today.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-2284869924178868850</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-1039099840015091975</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'>I&amp;#39;m sure there&amp;#39;s good ideas here but your code examples are all missing.  :-)</content>
+    <blogger:created>2012-11-21T20:04:50.011Z</blogger:created>
+    <published>2012-11-21T20:04:50.011Z</published>
+    <updated>2012-11-21T20:04:50.011Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-2425681886945070236</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>If you really need someone with recent experince in PHP, why are you interviewing someone who hasn't worked with it for three years?&lt;BR/&gt;&lt;BR/&gt;It's always easy to blame others.</content>
+    <blogger:created>2007-12-18T21:06:32.217Z</blogger:created>
+    <published>2007-12-18T21:06:00Z</published>
+    <updated>2007-12-18T21:06:32.247Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-2533490682372681334</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Have you tried solving the problem?</title>
+    <content type='html'>&lt;div&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;i&gt;As delivered at the 2016 New Relic Engineering Offsite&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;div&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;
+Have you tried trying?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried shouting at it?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried removing the time limit?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried adding a time limit?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried phoning a friend?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried paying someone else to deal with the problem?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried thinking about a different, larger problem instead?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried running toward the problem while screaming?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried the solutions that are only available when no one is looking?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried making the problem into a brand?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried Craigslist?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried politely asking the problem to be less problematic?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried offering the problem the resources it would need to solve itself?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried the soaking pool?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried coding up a universal problem solver?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried fixing things seemingly unrelated to the problem and seeing if the problem mysteriously vanishes?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried re-creating the problem in a different context? How different?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried scoffing at the youthful idealism of those who believe the problem can be solved?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried becoming part of a network of problem solvers so that each problem can be solved by the person most suited to solve it?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried emitting a strangled wail of horror and confusion?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you even tried?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried several partial solutions together?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried making extremely visible preparations for solving the problem, in the hopes that it will be intimidated and flee?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried grepping the codebase for the problem, looking for an explanatory comment?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Was the comment yours?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried making the problem worse? Or was that commit yours?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried solving the problem by giving a lightning talk about creative problem solving methods? &lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried trying to solve the problem accidentally, but accidentally solving it on purpose?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried attempting to lose the problem while unadvisedly racing through a dangerous asteroid field?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried solving the problem... ironically?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried looking at the problem with deep concern until finally breaking the silence with "It's probably the outgroup's fault?"&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried unfollowing the problem?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried hiring the problem to afflict your enemies?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried making the description of the problem into an unutterably powerful spell so people will not talk about it?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried a training montage and climactic final battle with the problem?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried the solution that was inside you all along?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried taking the wizard's advice he gave you in the beginning?&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;Have you tried... oh, you have? That too? Wow... maybe talk to Ward.&lt;/span&gt;&lt;br /&gt;
+&lt;div&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif; font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;i&gt;Thanks to &lt;a href="http://grognor.livejournal.com/5327.html"&gt;Grognor&lt;/a&gt;&lt;/i&gt;&lt;/span&gt;&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif;"&gt;&lt;span style="font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;i&gt; and &lt;a href="https://twitter.com/michael_nielsen/status/722867944699486208"&gt;Michael Nielsen&lt;/a&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif;"&gt;&lt;span style="font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span style="color: #333333; font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif;"&gt;&lt;span style="font-size: 13px; line-height: 17px; white-space: pre-wrap;"&gt;For other problem-solving ideas: &lt;a href="http://www.rtqe.net/ObliqueStrategies/"&gt;Oblique Strategies&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/wiki/TRIZ"&gt;TRIZ&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+</content>
+    <blogger:metaDescription/>
+    <blogger:created>2016-06-15T23:56:08.531Z</blogger:created>
+    <published>2016-06-16T00:05:00.003Z</published>
+    <updated>2016-06-16T22:38:43.924Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2016/06/have-you-tried-solving-problem.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-2842539075626486408</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>On Moving, Part 3</title>
+    <content type='html'>&lt;span style="font-size:130%;"&gt;Arrival&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.treemo.com/users/niralisse/channel/item/235942"&gt;&lt;img style="margin: 0pt 10px 10px 0pt; float: right; cursor: pointer; width: 200px;" src="http://www.treemo.com/files/treemo.niralisse.235942.mm.jpg" alt="" border="0" /&gt;&lt;/a&gt;&lt;span style="font-size:100%;"&gt;We've been working toward this move in parallel with our next major treemo.com release. The two coincide so closely that today, on our second day in the building, we're shipping our Biggest Release Ever.&lt;br /&gt;&lt;br /&gt;One of the key considerations when performing such a trick is to keep productivity up while adjusting to a new space. The best way to do that is to make sure that when you arrive, everything is ready to go. That we managed this is remarkable, and I'm still kind of taken aback. When I arrived on Monday there was little to do except set up my workstation, plug in, and get to work. We had our first meeting in the new conference room to plan the release, and got to  doing it. Today, we had lunch delivered and camped out smashing bugs. I got some delicious cider from my sister, who works in a coffeeshop on the first floor.&lt;br /&gt;&lt;br /&gt;We are so spoiled. :)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-12-18T22:59:24.665Z</blogger:created>
+    <published>2007-12-18T22:58:00Z</published>
+    <updated>2007-12-19T04:39:53.480Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/12/on-moving-part-3.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-3323081880287962487</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>Man I saw this post a it scared me for a second there!</content>
+    <blogger:created>2007-12-08T07:49:54.152Z</blogger:created>
+    <published>2007-12-08T07:49:00Z</published>
+    <updated>2007-12-08T07:49:54.160Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-3575449772367607859</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>How to get character encoding right in Smarty</title>
+    <content type='html'>&lt;a href="http://smarty.php.net/"&gt;Smarty &lt;/a&gt;is a great tool, but like its underlying PHP, has no native understanding of internationalization. One aspect of it that's easy to get wrong is character output encoding. Fortunately it's also fairly easy to get right.&lt;br /&gt;&lt;br /&gt;HTTP useragents send a header with their requests named "&lt;a href="http://www.freesoft.org/CIE/RFC/2068/157.htm"&gt;Accept-Charset&lt;/a&gt;". This header has a really stupid format, the parsing of which I'll address another time. For now, let's start from the point where you know what encoding the client prefers. Let's say it's something really weird like BIG-5. All your Chinese Smarty templates have text stored in UTF-8 because you're a good programmer. How do you get those lovely UTF-8 templates mangled into something this silly UA likes?&lt;br /&gt;&lt;br /&gt;First, if you're even reading this post, you're probably aware of PHP's mbstring library. This library offers a lovely function called mb_convert_encoding. The basic idea is to attach an output filter to Smarty that runs the template output through mb_convert_encoding. Here's how this looks:&lt;br /&gt;&lt;br /&gt;&lt;span style="font-family:courier new;"&gt;/**&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family:courier new;"&gt; * This sets an internal property in the PHP instance. Of course, this should be set to whatever the UA wants, within reason.&lt;br /&gt;&lt;/span&gt;&lt;span style="font-family:courier new;"&gt;*/&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-family:courier new;"&gt;mb_http_output( "BIG-5" );&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family:courier new;"&gt;function convertEncoding( $templateOutput, &amp;amp;$smarty )&lt;br /&gt;{&lt;br /&gt;return mb_convert_encoding( $templateOutput, mb_http_output() );&lt;br /&gt;}&lt;/span&gt;&lt;span style="font-family:courier new;"&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-family:courier new;"&gt;$smarty-&gt;register_outputfilter( "convertEncoding");&lt;br /&gt;&lt;br /&gt;/**&lt;br /&gt; * You must send headers so the browser knows that you gave it what it wanted&lt;br /&gt; */&lt;br /&gt;header( "Content-Type: text/html; charset=".mb_http_output());&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Now, when you call display() or fetch() on that Smarty instance, all its &lt;span style="font-style: italic;"&gt;output&lt;/span&gt; will be converted to the current value of mb_http_output() - even if the file was already cached!&lt;br /&gt;&lt;br /&gt;This approach guarantees a few nice things:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;It does not depend on output buffering&lt;/li&gt;&lt;li&gt;It is insulated from changes in php.ini&lt;/li&gt;&lt;li&gt;Only templates have their encoding converted&lt;/li&gt;&lt;li&gt;The encoding can be converted on a per-request basis&lt;/li&gt;&lt;/ul&gt;So go get this right, and stop sending everybody ISO-8859-1.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-10-21T04:17:26.073Z</blogger:created>
+    <published>2007-10-21T04:12:00Z</published>
+    <updated>2007-10-21T04:39:18.302Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/10/how-to-get-character-encoding-right-in.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-3583738602847532068</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-1039099840015091975</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>Nice post, thanks for sharing. If you are looking for &lt;a href="http://cryptextechnologies.com/services/ror_development" rel="nofollow"&gt;&lt;b&gt;ruby on Rails developers&lt;/b&gt;&lt;/a&gt; in India then email us at: info@cryptextechnologies.com</content>
+    <blogger:created>2016-02-23T10:20:16.904Z</blogger:created>
+    <published>2016-02-23T10:20:16.904Z</published>
+    <updated>2016-02-23T10:20:16.904Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-3711500765632603147</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-3575449772367607859</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>Thanks for the feedback. I&amp;#39;m making some really key assumptions here that I didn&amp;#39;t explain fully - it was 3 years ago, I was a newbie. :)
+
+1. I&amp;#39;m assuming that all your templates are encoded in UTF-8.
+2. I&amp;#39;m assuming all your database fields are collated in UTF-8.
+3. I&amp;#39;m assuming you&amp;#39;re taking all the POSTed form data and converting it to UTF-8 before storing it in the database.
+4. I&amp;#39;m assuming all your localized string files - whatever mechanism you&amp;#39;re using - are encoded in UTF-8. 
+5. I&amp;#39;m assuming you&amp;#39;re not using Smarty&amp;#39;s built-in escaping mechanism since as you pointed out, it doesn&amp;#39;t support UTF-8.
+
+The only - and very smallish - problem addressed here is how to get all this lovely UTF-8 data served to a client that doesn&amp;#39;t understand it, say it only understands ISO-8859-1. Well you can give it that, and not give it a bunch of characters it doesn&amp;#39;t understand, by having them removed in the encoding conversion.</content>
+    <blogger:created>2010-05-24T17:17:33.805Z</blogger:created>
+    <published>2010-05-24T17:17:33.805Z</published>
+    <updated>2010-05-24T17:17:33.805Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-3775823881594903358</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Stevey's Google Platforms Rant</title>
+    <content type='html'>Archiving this here in case it gets deleted. &lt;a href="https://plus.google.com/112678702228711889851/posts/eVeouesvaVX"&gt;Accidentally made public from Google+&lt;/a&gt;, oh the irony:&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;span class="Apple-style-span" style="font-family: arial, sans-serif; font-size: 13px; line-height: 18px;"&gt;Stevey's Google Platforms Rant&lt;br /&gt;&lt;br /&gt;I was at Amazon for about six and a half years, and now I've been at Google for that long. One thing that struck me immediately about the two companies -- an impression that has been reinforced almost daily -- is that Amazon does everything wrong, and Google does everything right. Sure, it's a sweeping generalization, but a surprisingly accurate one. It's pretty crazy. There are probably a hundred or even two hundred different ways you can compare the two companies, and Google is superior in all but three of them, if I recall correctly. I actually did a spreadsheet at one point but Legal wouldn't let me show it to anyone, even though recruiting&amp;nbsp;&lt;b&gt;loved&lt;/b&gt;&amp;nbsp;it.&lt;br /&gt;&lt;br /&gt;I mean, just to give you a very brief taste: Amazon's recruiting process is fundamentally flawed by having teams hire for themselves, so their hiring bar is incredibly inconsistent across teams, despite various efforts they've made to level it out. And their operations are a mess; they don't really have SREs and they make engineers pretty much do everything, which leaves almost no time for coding - though again this varies by group, so it's luck of the draw. They don't give a single shit about charity or helping the needy or community contributions or anything like that. Never comes up there, except maybe to laugh about it. Their facilities are dirt-smeared cube farms without a dime spent on decor or common meeting areas. Their pay and benefits suck, although much less so lately due to local competition from Google and Facebook. But they don't have any of our perks or extras -- they just try to match the offer-letter numbers, and that's the end of it. Their code base is a disaster, with no engineering standards whatsoever except what individual teams choose to put in place.&lt;br /&gt;&lt;br /&gt;To be fair, they do have a nice versioned-library system that we really ought to emulate, and a nice publish-subscribe system that we also have no equivalent for. But for the most part they just have a bunch of crappy tools that read and write state machine information into relational databases. We wouldn't take most of it even if it were free.&lt;br /&gt;&lt;br /&gt;I think the pubsub system and their library-shelf system were two out of the grand total of three things Amazon does better than google.&lt;br /&gt;&lt;br /&gt;I guess you could make an argument that their bias for launching early and iterating like mad is also something they do well, but you can argue it either way. They prioritize launching early over&amp;nbsp;&lt;i&gt;everything&lt;/i&gt;&amp;nbsp;else, including retention and engineering discipline and a bunch of other stuff that turns out to matter in the long run. So even though it's given them some competitive advantages in the marketplace, it's created enough other problems to make it something less than a slam-dunk.&lt;br /&gt;&lt;br /&gt;But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups.&lt;br /&gt;&lt;br /&gt;Jeff Bezos is an infamous micro-manager. He micro-manages every single pixel of Amazon's retail site. He hired Larry Tesler, Apple's Chief Scientist and probably the very most famous and respected human-computer interaction expert in the entire world, and then ignored every goddamn thing Larry said for three years until Larry finally -- wisely -- left the company. Larry would do these big usability studies and demonstrate beyond any shred of doubt that nobody can understand that frigging website, but Bezos just couldn't let go of those pixels, all those millions of semantics-packed pixels on the landing page. They were like millions of his own precious children. So they're all still there, and Larry is not.&lt;br /&gt;&lt;br /&gt;Micro-managing isn't that third thing that Amazon does better than us, by the way. I mean, yeah, they micro-manage really well, but I wouldn't list it as a strength or anything. I'm just trying to set the context here, to help you understand what happened. We're talking about a guy who in all seriousness has said on many public occasions that people should be paying him to work at Amazon. He hands out little yellow stickies with his name on them, reminding people "who runs the company" when they disagree with him. The guy is a regular... well, Steve Jobs, I guess. Except without the fashion or design sense. Bezos is super smart; don't get me wrong. He just makes ordinary control freaks look like stoned hippies.&lt;br /&gt;&lt;br /&gt;So one day Jeff Bezos issued a mandate. He's doing that all the time, of course, and people scramble like ants being pounded with a rubber mallet whenever it happens. But on one occasion -- back around 2002 I think, plus or minus a year -- he issued a mandate that was so out there, so huge and eye-bulgingly ponderous, that it made all of his other mandates look like unsolicited peer bonuses.&lt;br /&gt;&lt;br /&gt;His Big Mandate went something along these lines:&lt;br /&gt;&lt;br /&gt;1) All teams will henceforth expose their data and functionality through service interfaces.&lt;br /&gt;&lt;br /&gt;2) Teams must communicate with each other through these interfaces.&lt;br /&gt;&lt;br /&gt;3) There will be no other form of interprocess communication allowed: no direct linking, no direct reads of another team's data store, no shared-memory model, no back-doors whatsoever. The only communication allowed is via service interface calls over the network.&lt;br /&gt;&lt;br /&gt;4) It doesn't matter what technology they use. HTTP, Corba, Pubsub, custom protocols -- doesn't matter. Bezos doesn't care.&lt;br /&gt;&lt;br /&gt;5) All service interfaces, without exception, must be designed from the ground up to be externalizable. That is to say, the team must plan and design to be able to expose the interface to developers in the outside world. No exceptions.&lt;br /&gt;&lt;br /&gt;6) Anyone who doesn't do this will be fired.&lt;br /&gt;&lt;br /&gt;7) Thank you; have a nice day!&lt;br /&gt;&lt;br /&gt;Ha, ha! You 150-odd ex-Amazon folks here will of course realize immediately that #7 was a little joke I threw in, because Bezos most definitely does not give a shit about your day.&lt;br /&gt;&lt;br /&gt;#6, however, was quite real, so people went to work. Bezos assigned a couple of Chief Bulldogs to oversee the effort and ensure forward progress, headed up by Uber-Chief Bear Bulldog Rick Dalzell. Rick is an ex-Armgy Ranger, West Point Academy graduate, ex-boxer, ex-Chief Torturer slash CIO at Wal*Mart, and is a big genial scary man who used the word "hardened interface" a lot. Rick was a walking, talking hardened interface himself, so needless to say, everyone made LOTS of forward progress and made sure Rick knew about it.&lt;br /&gt;&lt;br /&gt;Over the next couple of years, Amazon transformed internally into a service-oriented architecture. They learned a tremendous amount while effecting this transformation. There was lots of existing documentation and lore about SOAs, but at Amazon's vast scale it was about as useful as telling Indiana Jones to look both ways before crossing the street. Amazon's dev staff made a lot of discoveries along the way. A teeny tiny sampling of these discoveries included:&lt;br /&gt;&lt;br /&gt;- pager escalation gets way harder, because a ticket might bounce through 20 service calls before the real owner is identified. If each bounce goes through a team with a 15-minute response time, it can be hours before the right team finally finds out, unless you build a lot of scaffolding and metrics and reporting.&lt;br /&gt;&lt;br /&gt;- every single one of your peer teams suddenly becomes a potential DOS attacker. Nobody can make any real forward progress until very serious quotas and throttling are put in place in every single service.&lt;br /&gt;&lt;br /&gt;- monitoring and QA are the same thing. You'd never think so until you try doing a big SOA. But when your service says "oh yes, I'm fine", it may well be the case that the only thing still functioning in the server is the little component that knows how to say "I'm fine, roger roger, over and out" in a cheery droid voice. In order to tell whether the service is actually responding, you have to make individual calls. The problem continues recursively until your monitoring is doing comprehensive semantics checking of your entire range of services and data, at which point it's indistinguishable from automated QA. So they're a continuum.&lt;br /&gt;&lt;br /&gt;- if you have hundreds of services, and your code MUST communicate with other groups' code via these services, then you won't be able to find any of them without a service-discovery mechanism. And you can't have that without a service registration mechanism, which itself is another service. So Amazon has a universal service registry where you can find out reflectively (programmatically) about every service, what its APIs are, and also whether it is currently up, and where.&lt;br /&gt;&lt;br /&gt;- debugging problems with someone else's code gets a LOT harder, and is basically impossible unless there is a universal standard way to run every service in a debuggable sandbox.&lt;br /&gt;&lt;br /&gt;That's just a very small sample. There are dozens, maybe hundreds of individual learnings like these that Amazon had to discover organically. There were a lot of wacky ones around externalizing services, but not as many as you might think. Organizing into services taught teams not to trust each other in most of the same ways they're not supposed to trust external developers.&lt;br /&gt;&lt;br /&gt;This effort was still underway when I left to join Google in mid-2005, but it was pretty far advanced. From the time Bezos issued his edict through the time I left, Amazon had transformed culturally into a company that thinks about everything in a services-first fashion. It is now fundamental to how they approach all designs, including internal designs for stuff that might never see the light of day externally.&lt;br /&gt;&lt;br /&gt;At this point they don't even do it out of fear of being fired. I mean, they're still afraid of that; it's pretty much part of daily life there, working for the Dread Pirate Bezos and all. But they do services because they've come to understand that it's the Right Thing. There are without question pros and cons to the SOA approach, and some of the cons are pretty long. But overall it's the right thing because SOA-driven design enables Platforms.&lt;br /&gt;&lt;br /&gt;That's what Bezos was up to with his edict, of course. He didn't (and doesn't) care even a tiny bit about the well-being of the teams, nor about what technologies they use, nor in fact any detail whatsoever about how they go about their business unless they happen to be screwing up. But Bezos realized long before the vast majority of Amazonians that Amazon needs to be a platform.&lt;br /&gt;&lt;br /&gt;You wouldn't really think that an online bookstore needs to be an extensible, programmable platform. Would you?&lt;br /&gt;&lt;br /&gt;Well, the first big thing Bezos realized is that the infrastructure they'd built for selling and shipping books and sundry could be transformed an excellent repurposable computing platform. So now they have the Amazon Elastic Compute Cloud, and the Amazon Elastic MapReduce, and the Amazon Relational Database Service, and a whole passel' o' other services browsable at&lt;a class="ot-anchor" href="http://aws.amazon.com/" style="color: #3366cc; cursor: pointer; text-decoration: none;"&gt;aws.amazon.com&lt;/a&gt;. These services host the backends for some pretty successful companies, reddit being my personal favorite of the bunch.&lt;br /&gt;&lt;br /&gt;The other big realization he had was that he can't always build the right thing. I think Larry Tesler might have struck some kind of chord in Bezos when he said his mom couldn't use the goddamn website. It's not even super clear whose mom he was talking about, and doesn't really matter, because&amp;nbsp;&lt;i&gt;nobody's mom&lt;/i&gt;&amp;nbsp;can use the goddamn website. In fact I myself find the website disturbingly daunting, and I worked there for over half a decade. I've just learned to kinda defocus my eyes and concentrate on the million or so pixels near the center of the page above the fold.&lt;br /&gt;&lt;br /&gt;I'm not really sure how Bezos came to this realization -- the insight that he can't build one product and have it be right for everyone. But it doesn't matter, because he gets it. There's actually a formal name for this phenomenon. It's called Accessibility, and it's the most important thing in the computing world.&lt;br /&gt;&lt;br /&gt;The. Most. Important. Thing.&lt;br /&gt;&lt;br /&gt;If you're sorta thinking, "huh? You mean like, blind and deaf people Accessibility?" then you're not alone, because I've come to understand that there are lots and LOTS of people just like you: people for whom this idea does not have the right Accessibility, so it hasn't been able to get through to you yet. It's not your fault for not understanding, any more than it would be your fault for being blind or deaf or motion-restricted or living with any other disability. When software -- or idea-ware for that matter -- fails to be accessible to&lt;i&gt;anyone&lt;/i&gt;&amp;nbsp;for&amp;nbsp;&lt;i&gt;any reason&lt;/i&gt;, it is the fault of the software or of the messaging of the idea. It is an Accessibility failure.&lt;br /&gt;&lt;br /&gt;Like anything else big and important in life, Accessibility has an evil twin who, jilted by the unbalanced affection displayed by their parents in their youth, has grown into an equally powerful Arch-Nemesis (yes, there's more than one nemesis to accessibility) named Security. And boy howdy are the two ever at odds.&lt;br /&gt;&lt;br /&gt;But I'll argue that Accessibility is actually more important than Security because dialing Accessibility to zero means you have no product at all, whereas dialing Security to zero can still get you a reasonably successful product such as the Playstation Network.&lt;br /&gt;&lt;br /&gt;So yeah. In case you hadn't noticed, I could actually write a book on this topic. A fat one, filled with amusing anecdotes about ants and rubber mallets at companies I've worked at. But I will never get this little rant published, and you'll never get it read, unless I start to wrap up.&lt;br /&gt;&lt;br /&gt;That one last thing that Google doesn't do well is Platforms. We don't understand platforms. We don't "get" platforms. Some of you do, but you are the minority. This has become painfully clear to me over the past six years. I was kind of hoping that competitive pressure from Microsoft and Amazon and more recently Facebook would make us wake up collectively and start doing universal services. Not in some sort of ad-hoc, half-assed way, but in more or less the same way Amazon did it: all at once, for real, no cheating, and treating it as our top priority from now on.&lt;br /&gt;&lt;br /&gt;But no. No, it's like our tenth or eleventh priority. Or fifteenth, I don't know. It's pretty low. There are a few teams who treat the idea very seriously, but most teams either don't think about it all,&amp;nbsp;&lt;b&gt;ever&lt;/b&gt;, or only a small percentage of them think about it in a very small way.&lt;br /&gt;&lt;br /&gt;It's a big stretch even to get most teams to offer a stubby service to get programmatic access to their data and computations. Most of them think they're building products. And a stubby service is a pretty pathetic service. Go back and look at that partial list of learnings from Amazon, and tell me which ones Stubby gives you out of the box. As far as I'm concerned, it's none of them. Stubby's great, but it's like parts when you need a car.&lt;br /&gt;&lt;br /&gt;A product is useless without a platform, or more precisely and accurately, a platform-less product will always be replaced by an equivalent platform-ized product.&lt;br /&gt;&lt;br /&gt;Google+ is a prime example of our complete failure to understand platforms from the very highest levels of executive leadership (hi Larry, Sergey, Eric, Vic, howdy howdy) down to the very lowest leaf workers (hey yo). We&amp;nbsp;&lt;i&gt;all&lt;/i&gt;&amp;nbsp;don't get it. The Golden Rule of platforms is that you Eat Your Own Dogfood. The Google+ platform is a pathetic afterthought. We had no API at all at launch, and last I checked, we had one measly API call. One of the team members marched in and told me about it when they launched, and I asked: "So is it the Stalker API?" She got all glum and said "Yeah." I mean, I was&amp;nbsp;&lt;i&gt;joking&lt;/i&gt;, but no... the only API call we offer is to get someone's stream. So I guess the joke was on me.&lt;br /&gt;&lt;br /&gt;Microsoft has known about the Dogfood rule for at least twenty years. It's been part of their culture for a whole generation now. You don't eat People Food and give your developers Dog Food. Doing that is simply robbing your long-term platform value for short-term successes. Platforms are all about long-term thinking.&lt;br /&gt;&lt;br /&gt;Google+ is a knee-jerk reaction, a study in short-term thinking, predicated on the incorrect notion that Facebook is successful because they built a great product. But that's not why they are successful. Facebook is successful because they built an entire constellation of products by allowing other people to do the work. So Facebook is different for everyone. Some people spend all their time on Mafia Wars. Some spend all their time on Farmville. There are hundreds or maybe thousands of different high-quality time sinks available, so there's something there for everyone.&lt;br /&gt;&lt;br /&gt;Our Google+ team took a look at the aftermarket and said: "Gosh, it looks like we need some games. Let's go contract someone to, um, write some games for us." Do you begin to see how incredibly&amp;nbsp;&lt;i&gt;wrong&lt;/i&gt;&amp;nbsp;that thinking is now? The problem is that we are trying to predict what people want and deliver it for them.&lt;br /&gt;&lt;br /&gt;You can't do that. Not really. Not reliably. There have been precious few people in the world, over the entire history of computing, who have been able to do it reliably. Steve Jobs was one of them. We don't have a Steve Jobs here. I'm sorry, but we don't.&lt;br /&gt;&lt;br /&gt;Larry Tesler may have convinced Bezos that he was no Steve Jobs, but Bezos realized that he didn't&amp;nbsp;&lt;i&gt;need&lt;/i&gt;&amp;nbsp;to be a Steve Jobs in order to provide everyone with the right products: interfaces and workflows that they liked and felt at ease with. He just needed to enable third-party developers to do it, and it would happen automatically.&lt;br /&gt;&lt;br /&gt;I apologize to those (many) of you for whom all this stuff I'm saying is incredibly obvious, because yeah. It's incredibly frigging obvious. Except we're not doing it. We don't get Platforms, and we don't get Accessibility. The two are basically the same thing, because platforms solve accessibility. A platform&amp;nbsp;&lt;i&gt;is&lt;/i&gt;&amp;nbsp;accessibility.&lt;br /&gt;&lt;br /&gt;So yeah, Microsoft gets it. And you know as well as I do how surprising that is, because they don't "get" much of anything, really. But they understand platforms as a purely accidental outgrowth of having started life in the business of providing platforms. So they have thirty-plus years of learning in this space. And if you go to&amp;nbsp;&lt;a class="ot-anchor" href="http://msdn.com/" style="color: #3366cc; cursor: pointer; text-decoration: none;"&gt;msdn.com&lt;/a&gt;, and spend some time browsing, and you've never seen it before, prepare to be amazed. Because it's staggeringly huge. They have thousands, and&amp;nbsp;&lt;i&gt;thousands&lt;/i&gt;, and THOUSANDS of API calls. They have a HUGE platform. Too big in fact, because they can't design for squat, but at least they're doing it.&lt;br /&gt;&lt;br /&gt;Amazon gets it. Amazon's AWS (&lt;a class="ot-anchor" href="http://aws.amazon.com/" style="color: #3366cc; cursor: pointer; text-decoration: none;"&gt;aws.amazon.com&lt;/a&gt;) is incredible. Just go look at it. Click around. It's embarrassing. We don't have any of that stuff.&lt;br /&gt;&lt;br /&gt;Apple gets it, obviously. They've made some fundamentally non-open choices, particularly around their mobile platform. But they understand accessibility and they understand the power of third-party development and they eat their dogfood. And you know what? They make pretty good dogfood. Their APIs are a hell of a lot cleaner than Microsoft's, and have been since time immemorial.&lt;br /&gt;&lt;br /&gt;Facebook gets it. That's what really worries me. That's what got me off my lazy butt to write this thing. I hate blogging. I hate... plussing, or whatever it's called when you do a massive rant in Google+ even though it's a terrible venue for it but you do it anyway because in the end you really do want Google to be successful. And I do! I mean, Facebook wants me there, and it'd be pretty easy to just go. But Google is&amp;nbsp;&lt;i&gt;home&lt;/i&gt;, so I'm insisting that we have this little family intervention, uncomfortable as it might be.&lt;br /&gt;&lt;br /&gt;After you've marveled at the platform offerings of Microsoft and Amazon, and Facebook I guess (I didn't look because I didn't want to get&amp;nbsp;&lt;b&gt;too&lt;/b&gt;&amp;nbsp;depressed), head over to&amp;nbsp;&lt;a class="ot-anchor" href="http://developers.google.com/" style="color: #3366cc; cursor: pointer; text-decoration: none;"&gt;developers.google.com&lt;/a&gt;&amp;nbsp;and browse a little. Pretty big difference, eh? It's like what your fifth-grade nephew might mock up if he were doing an assignment to demonstrate what a big powerful platform company might be building if all they had, resource-wise, was one fifth grader.&lt;br /&gt;&lt;br /&gt;Please don't get me wrong here -- I know for a fact that the dev-rel team has had to FIGHT to get even this much available externally. They're kicking ass as far as I'm concerned, because they DO get platforms, and they are struggling heroically to try to create one in an environment that is at best platform-apathetic, and at worst often openly hostile to the idea.&lt;br /&gt;&lt;br /&gt;I'm just frankly describing what&amp;nbsp;&lt;a class="ot-anchor" href="http://developers.google.com/" style="color: #3366cc; cursor: pointer; text-decoration: none;"&gt;developers.google.com&lt;/a&gt;&amp;nbsp;looks like to an outsider. It looks childish. Where's the Maps APIs in there for Christ's sake? Some of the things in there are&amp;nbsp;&lt;i&gt;labs&lt;/i&gt;&amp;nbsp;projects. And the APIs for everything I clicked were... they were paltry. They were obviously dog food. Not even good organic stuff. Compared to our internal APIs it's all snouts and horse hooves.&lt;br /&gt;&lt;br /&gt;And also don't get me wrong about Google+. They're&amp;nbsp;&lt;b&gt;far&lt;/b&gt;&amp;nbsp;from the only offenders. This is a cultural thing. What we have going on internally is basically a war, with the underdog minority Platformers fighting a more or less losing battle against the Mighty Funded Confident Producters.&lt;br /&gt;&lt;br /&gt;Any teams that have successfully internalized the notion that they should be externally programmable platforms from the ground up are underdogs -- Maps and Docs come to mind, and I know GMail is making overtures in that direction. But it's hard for them to get funding for it because it's not part of our culture. Maestro's funding is a feeble thing compared to the gargantuan Microsoft Office programming platform: it's a fluffy rabbit versus a T-Rex. The Docs team&amp;nbsp;&lt;i&gt;knows&lt;/i&gt;&amp;nbsp;they'll never be competitive with Office until they can match its scripting facilities, but they're not getting any resource love. I mean, I assume they're not, given that Apps Script only works in Spreadsheet right now, and it doesn't even have keyboard shortcuts as part of its API. That team looks pretty unloved to me.&lt;br /&gt;&lt;br /&gt;Ironically enough, Wave was a great platform, may they rest in peace. But making something a platform is&amp;nbsp;&lt;b&gt;not&lt;/b&gt;&amp;nbsp;going to make you an instant success. A platform needs a killer app. Facebook -- that is, the stock service they offer with walls and friends and such -- is the killer app for the Facebook Platform. And it is a very serious mistake to conclude that the Facebook App could have been anywhere near as successful&amp;nbsp;&lt;i&gt;without&lt;/i&gt;&amp;nbsp;the Facebook Platform.&lt;br /&gt;&lt;br /&gt;You know how people are always saying Google is arrogant? I'm a Googler, so I get as irritated as you do when people say that. We're not arrogant, by and large. We're, like, 99% Arrogance-Free. I did start this post -- if you'll reach back into distant memory -- by describing Google as "doing everything right". We do mean well, and for the most part when people say we're arrogant it's because we didn't hire them, or they're unhappy with our policies, or something along those lines. They're inferring arrogance because it makes them feel better.&lt;br /&gt;&lt;br /&gt;But when we take the stance that we know how to design the perfect product for everyone, and believe you me, I hear that a lot, then we're being fools. You can attribute it to arrogance, or naivete, or whatever -- it doesn't matter in the end, because it's foolishness. There IS no perfect product for everyone.&lt;br /&gt;&lt;br /&gt;And so we wind up with a browser that doesn't let you set the default font size. Talk about an affront to Accessibility. I mean, as I get older I'm actually going blind. For real. I've been nearsighted all my life, and once you hit 40 years old you stop being able to see things up close. So font selection becomes this life-or-death thing: it can lock you out of the product completely. But the Chrome team is flat-out arrogant here: they want to build a zero-configuration product, and they're quite brazen about it, and Fuck You if you're blind or deaf or whatever. Hit Ctrl-+ on every single page visit for the rest of your life.&lt;br /&gt;&lt;br /&gt;It's not just them. It's&amp;nbsp;&lt;i&gt;everyone&lt;/i&gt;. The problem is that we're a Product Company through and through. We built a successful product with broad appeal -- our search, that is -- and that wild success has biased us.&lt;br /&gt;&lt;br /&gt;Amazon was a product company too, so it took an out-of-band force to make Bezos understand the need for a platform. That force was their evaporating margins; he was cornered and had to think of a way out. But all he had was a bunch of engineers and all these computers... if only they could be monetized somehow... you can see how he arrived at AWS, in hindsight.&lt;br /&gt;&lt;br /&gt;Microsoft started out as a platform, so they've just had lots of practice at it.&lt;br /&gt;&lt;br /&gt;Facebook, though: they worry me. I'm no expert, but I'm pretty sure they started off as a Product and they rode that success pretty far. So I'm not sure exactly how they made the transition to a platform. It was a relatively long time ago, since they had to be a platform before (now very old) things like Mafia Wars could come along.&lt;br /&gt;&lt;br /&gt;Maybe they just looked at us and asked: "How can we beat Google? What are they missing?"&lt;br /&gt;&lt;br /&gt;The problem we face is pretty huge, because it will take a dramatic cultural change in order for us to start catching up. We don't do internal service-oriented platforms, and we just as equally don't do external ones. This means that the "not getting it" is endemic across the company: the PMs don't get it, the engineers don't get it, the product teams don't get it, nobody gets it. Even if individuals do, even if YOU do, it doesn't matter one bit unless we're treating it as an all-hands-on-deck emergency. We can't keep launching products and pretending we'll turn them into magical beautiful extensible platforms later. We've tried that and it's not working.&lt;br /&gt;&lt;br /&gt;The Golden Rule of Platforms, "Eat Your Own Dogfood", can be rephrased as "Start with a Platform, and Then Use it for Everything." You can't just bolt it on later. Certainly not easily at any rate -- ask anyone who worked on platformizing MS Office. Or anyone who worked on platformizing Amazon. If you delay it, it'll be ten times as much work as just doing it correctly up front. You can't cheat. You can't have secret back doors for internal apps to get special priority access, not for ANY reason. You need to solve the hard problems up front.&lt;br /&gt;&lt;br /&gt;I'm not saying it's too late for us, but the longer we wait, the closer we get to being Too Late.&lt;br /&gt;&lt;br /&gt;I honestly don't know how to wrap this up. I've said pretty much everything I came here to say today. This post has been six years in the making. I'm sorry if I wasn't gentle enough, or if I misrepresented some product or team or person, or if we're actually doing LOTS of platform stuff and it just so happens that I and everyone I ever talk to has just never heard about it. I'm sorry.&lt;br /&gt;&lt;br /&gt;But we've gotta start doing this right.&lt;/span&gt;&lt;/blockquote&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2011-10-12T17:27:23.137Z</blogger:created>
+    <published>2011-10-12T17:28:00Z</published>
+    <updated>2011-10-12T17:28:46.510Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2011/10/steveys-google-platforms-rant.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-3944814785683554466</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Josh.Schumacer</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>Amen brother! You're preaching to the choir, I don't understand why/how some people can come into an interview so unprepared.  This is a big commitment they're about to make, jobs take up a good majority of our waking moments every day and you should really be prepared when you come into the interview.</content>
+    <blogger:created>2007-11-14T06:33:48.367Z</blogger:created>
+    <published>2007-11-14T06:33:00Z</published>
+    <updated>2007-11-14T06:33:48.372Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-4043980836876323096</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-6488655660012278456</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'>By anychance, can you do a Youtube video showing what to do?</content>
+    <blogger:created>2011-11-09T22:38:54.268Z</blogger:created>
+    <published>2011-11-09T22:38:54.268Z</published>
+    <updated>2011-11-09T22:38:54.268Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-4086143275576860047</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>The Nymwars: Anonymity as a Security Strategy</title>
+    <content type='html'>I swore &amp;nbsp;I wouldn't post about this, it was too stupid. The &lt;a href="http://en.wikipedia.org/wiki/Nymwars"&gt;Nymwars&lt;/a&gt; people were freaking out over nothing, I thought. Just don't use Google+, it's not hard, right? But even within Google there were &lt;a href="https://plus.google.com/u/0/110295984969329522620/posts/ExKJZgBAYxM"&gt;fights over it&lt;/a&gt;. Then the EFF &lt;a href="https://www.eff.org/deeplinks/2011/07/case-pseudonyms"&gt;chimed in&lt;/a&gt; and I think they're right, and so does &lt;a href="http://www.jwz.org/blog/2011/08/nym-wars/"&gt;JWZ&lt;/a&gt;. So I'm pro-pseudonym I guess, because people I like are too.&lt;br /&gt;
+&lt;br /&gt;
+But that's not really it, is it? At The City we don't have a "real name policy" as such, but the system makes the assumption that people are going to put their real name and picture on their profile because everyone they interact with using the service is presumably someone they could meet any given Sunday. We have a "nickname" field but that's only to accomodate Dave/David preferences and doesn't hide their real name in a meaningful way. So as a product we have a real name assumption and have steadily resisted hiding real names because the &lt;i&gt;scale&lt;/i&gt; is small, and users are naturally bucketed into churches.&lt;br /&gt;
+&lt;br /&gt;
+As a church grows, that scale gets bigger, and the probability of someone meeting someone they don't like any given Sunday gets bigger. But on when you put everyone in the church in a flat, searchable namespace on The City, that probability becomes 1 as soon as that someone joins. So we get requests from churches to allow hidden profiles or other privacy measures to make it less obvious that someone with a certain name has an online presence&lt;br /&gt;
+&lt;br /&gt;
+We've long dismissed this as a "human sin problem" and simply added ways to limit who can contact them rather than hide their existence. Because The City doesn't do anything for a bad person except show you someone's name, something they could already see anyway using a phone book. But we haven't taken it far enough and I think this debate opens up how. While pseudonymity doesn't really work in the Church, for us, and I think other social sites of appreciable scale, you can choose to require real names if you like. But there had better be &lt;i&gt;complete&lt;/i&gt;&amp;nbsp;security controls around displaying presence, and affordance for anonymous interaction where it makes sense.&lt;br /&gt;
+&lt;br /&gt;The exemplar is credit card billing records in a small business. They need to know your real name and billing info and may know your purchase history. Groups of customers may know each other if they choose to announce their patronage, but may choose not to. The business doesn't get to go announcing exactly who purchased from them without raising the ire of their customers, who didn't ask that.&lt;br /&gt;
+&lt;br /&gt;
+Real names have &lt;a href="http://en.wikipedia.org/wiki/Names_of_God"&gt;power&lt;/a&gt;, and we should not expect users to trust us with theirs unless we handle them responsibly. In our case the user may be required to use The City to engage in their church community, and that's a lot to ask in any case. Reducing the fear about engaging in close community online only happens if that community and the people in it are carefully protected.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2011-10-05T22:28:36.431Z</blogger:created>
+    <published>2011-10-05T23:01:00Z</published>
+    <updated>2011-10-05T23:01:44.107Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2011/10/nymwars-anonymity-as-security-strategy.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-4094888423801288893</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2533490682372681334</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>GHOSTED_COMMENT</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'/>
+    <blogger:created>2018-05-17T21:34:47.136Z</blogger:created>
+    <published>2018-05-17T21:34:47.136Z</published>
+    <updated>2018-05-17T22:53:00.318Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-4901012642512622027</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-7409958595186051233</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>You know, the biggest thing I'll miss my last job is the fact that they have DEDICATED project managers for all projects. &lt;BR/&gt;&lt;BR/&gt;Details, details, details!</content>
+    <blogger:created>2007-12-24T05:11:19.833Z</blogger:created>
+    <published>2007-12-24T05:11:00Z</published>
+    <updated>2007-12-24T05:11:19.840Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-5349767637164303975</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>On Moving, Part 1</title>
+    <content type='html'>&lt;span style="font-size:130%;"&gt;Promise&lt;/span&gt;&lt;br /&gt;&lt;a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.treemo.com/users/niralisse/channel/item/233602"&gt;&lt;img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px;" src="http://www.treemo.com/files/treemo.niralisse.233602.mm.jpg" alt="" border="0" /&gt;&lt;/a&gt;&lt;p&gt;The space in which you work completely defines the parameters of your activity there. It outranks even your CEO by placing hard physical boundaries around what types of work can and cannot be done. Work which requires quiet cannot be done in an environment full of noise. Work which requires collaboration cannot be done in a small room. Work which requires creativity will suffer in a dreary environment, and thrive in a beautiful one.&lt;/p&gt;&lt;p&gt;On Monday we will have the opportunity to discover what kind of work we can do in a large, window-rich, cosmopolitan downtown office space. Downtown! The lights! The glamor! New restaurants! Bus passes!&lt;/p&gt;&lt;p&gt;At every stage in our growth we have bristled against too-small office space that failed to meet our needs. Not enough privacy, not enough rooms, not enough wiring, not enough light, something. I want to code, and someone's one cube over arguing about a feature. I need to have a conference call, but have no door. I need to pee, but there's only one bathroom for 12 of us. I want to see if it's raining, but I have to hit F12 because the window is down the hall. I want to sketch a brilliant design, but the wall's too small for a decent whiteboard. I want to work 8 hours and wonder where the time went, but the overhead lighting gives me a headache before noon, and this desk is too small to put my coat, notepad, and lunch on it all at the same time. I wonder if Google would give me a bigger desk?&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Obviously when you're a startup, even a funded one, you can't afford &lt;a href="http://seattletimes.nwsource.com/html/businesstechnology/2004005458_microsoftbuilding10.html"&gt;Building 99&lt;/a&gt;. But you do have to strike a balance, because every millisecond I spend thinking one of the above thoughts, I'm not writing great code.&lt;/p&gt;But! Downtown! Here's some of the things our new space enables us to do:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Allow our receptionist to greet visitors immediately at a striking entry desk&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Hold a meeting in a real conference room&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Enjoy our view of Westlake plaza from any point within the office&lt;/li&gt;&lt;li&gt;Retire to a secluded space to be left undisturbed when necessary&lt;/li&gt;&lt;li&gt;Write on the half-glass walls with whiteboard pens&lt;/li&gt;&lt;li&gt;Put huge desks in the offices&lt;/li&gt;&lt;li&gt;Work from home over a real VPN&lt;/li&gt;&lt;li&gt;Step out the elevator doors to the middle of downtown, anytime we want&lt;/li&gt;&lt;/ul&gt;All of which are things that enable us to spend less time thinking about the stuff we can't do, and more time doing what we want to do - making great software.&lt;p&gt;&lt;/p&gt;Tomorrow, Part 2: Moving Day</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-12-16T07:56:50.191Z</blogger:created>
+    <published>2007-12-16T07:55:00Z</published>
+    <updated>2007-12-19T04:42:00.048Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/12/on-moving-part-1.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-5433916573124723952</id>
+    <blogger:type>PAGE</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Reading List</title>
+    <content type='html'>Things</content>
+    <blogger:metaDescription/>
+    <blogger:created>2019-06-29T00:21:50.200Z</blogger:created>
+    <published>2019-06-29T00:29:00Z</published>
+    <updated>2019-06-29T00:29:34.505Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/p/reading-list.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-5674804240888856060</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-1039099840015091975</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>Thanks, that was exactly the advice I was looking for. </content>
+    <blogger:created>2014-02-06T23:55:04.319Z</blogger:created>
+    <published>2014-02-06T23:55:04.319Z</published>
+    <updated>2014-02-06T23:55:04.319Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6325339326644628158</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Abstraction Layers, Change Streams, and Silos</title>
+    <content type='html'>Being a developer, I tend to see people organization through the same lens as systems organization.&lt;br /&gt;&lt;br /&gt;In a software system, every interface forms an abstraction layer. Every developer working within that system designs APIs, as this &lt;a href="http://video.google.com/videoplay?docid=-3733345136856180693"&gt;helpful video &lt;/a&gt;points out. Good APIs have the qualities outlined in that video, that of being:&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Easy to learn&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Easy to use, even without documentation&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Hard to misuse&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Easy to read and maintain code that uses it&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Sufficiently powerful to satisfy requirements&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Easy to evolve&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Appropriate to its audience&lt;br /&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;The first five items on the list are best accomplished by ensuring that the API presents a &lt;span style="font-style: italic;"&gt;consistent level of abstraction.&lt;/span&gt; All its functionality should address the same set of concepts. We'll pick on PHP's Iterator interface:&lt;br /&gt;&lt;pre&gt;&lt;br /&gt;next()&lt;br /&gt;prev()&lt;br /&gt;valid()&lt;br /&gt;rewind()&lt;br /&gt;&lt;/pre&gt;All these functions deal precisely with items in an iterable object. An example of an API that didn't do this might look like the following:&lt;pre&gt;&lt;br /&gt;$user-&gt;getHeldItems()&lt;br /&gt;$user-&gt;holdItem()&lt;br /&gt;$user-&gt;syncProfileData()&lt;br /&gt;$user-&gt;checkoutItems()&lt;br /&gt;&lt;/pre&gt;If you've spent more than 10 minutes of your life writing code, that third method should fall with a loud &lt;span style="font-style: italic;"&gt;thunk &lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Making an API easy to evolve starts with change stream encapsulation. A change in the details of implementation can generally be ignored by higher-level consumers of the API. So over time, as that method evolves, its change stream will be hidden by its interface.&lt;br /&gt;&lt;br /&gt;Organizations must also create the same abstractions, because nobody has the time to keep track of every single thing in the organization. Our office manager needs to not care how the DHCP server is configured, she just needs to know she can get to the Ikea site and get us some desks. Anything else is a distraction. For a developer, this is writ quite large, as the tools I require are typically much more complicated than a web browser. Maintaining groupware like Exchange, for example - not trivial. Babysitting a build process is another common one. I need that stuff to work so I can write good code, but I must spend almost none of my time doing it. So teams get created, presenting an organizational communication interface ("OPI"?).&lt;br /&gt;&lt;br /&gt;And that's all well and good, but what happens when that boundary lies across a layer of the software? For example, when I rely on a RewriteRule set in Apache by our sysadmins? I have to communicate across a layer of both organizational &lt;span style="font-style: italic;"&gt;and&lt;/span&gt; application-layer abstraction. And that presents a problem, because any organization-layer abstraction necessarily restricts the clarity of communication. I don't necessarily work with our sysadmin on Apache most of the time, so I don't have a clear idea of how it intertwines. That's a problem when I'm trying to design something that might interact with that subsystem.&lt;br /&gt;&lt;br /&gt;So to fight this, organizational abstraction layers need to have the same careful consideration given them as a good API, and meet all 7 of the qualities listed at the top. Everything from process methodologies to groupware have to be evaluated in this way, because to solve the communication problem that &lt;span style="font-style: italic;"&gt;is&lt;/span&gt; software, the ideas crossing those boundaries should be as fluent as possible.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-11-18T05:35:03.028Z</blogger:created>
+    <published>2007-11-18T05:33:00Z</published>
+    <updated>2007-12-08T08:29:02.077Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/11/abstraction-layers-change-streams-and.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6456130431882005031</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Magpie</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>I was wondering how you'd managed to  to interview my pet cat Peeves without me knowing about it?! &lt;BR/&gt;But you didn't... (thankfully) as she can be a little abrasive, especially with new people... &lt;BR/&gt;anyway! - it's all a terrible misunderstanding, my most sincere apologies.</content>
+    <blogger:created>2007-12-19T00:34:36.498Z</blogger:created>
+    <published>2007-12-19T00:34:00Z</published>
+    <updated>2007-12-19T00:34:36.506Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6488655660012278456</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Using Amazon EC2 like a cheap, confusing VPS</title>
+    <content type='html'>Let's say you wanted a VPS-like server somewhere that runs all the time, gives you root access, and lets you install whatever you want. Let's say you also wanted to attach tons of space, a CDN, a database server, and anything else. Well you'd want to use some of the Amazon AWS products but you'd probably not want to have your VPS service hosted somewhere else, so you can centralize. &lt;br /&gt;
+&lt;br /&gt;
+So you'd think, EC2 lets you run servers, and EBS lets you use them like they have regular hard drives attached, let's just buy a yearlong EC2 reservation and get a fat server for an amortized $75/month! It's a great plan, until you start to try it and realize everything in AWS is designed in little tiny pieces, not systems. &lt;br /&gt;
+&lt;br /&gt;
+So then you try something like RightScale, or Judo, or Scalr, and you think, I don't need this autoscaling clouding magic scripty crap, I just want a server! Is that so hard? Well no, but it's $250/month from Slicehost, and you don't want to pay that.&lt;br /&gt;
+&lt;br /&gt;
+Let's do something different. Let's get as close to a VPS as we can in EC2 using the simplest tools possible - just the &lt;a href="https://console.aws.amazon.com/ec2/"&gt;console&lt;/a&gt; and the &lt;a href="http://docs.amazonwebservices.com/AmazonEC2/gsg/2006-06-26/setting-up-your-tools.html"&gt;ec2 API tools&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+First, some concepts. AWS has its own language that is not very familiar. I strongly recommend taking an hour or two and reading the &lt;a href="http://docs.amazonwebservices.com/AWSEC2/latest/UserGuide/"&gt;EC2 User Guide&lt;/a&gt; so you can get a handle on what's going on here. I tried to avoid it but really it's best to just read it straight through. This isn't a quickie project.&lt;br /&gt;
+&lt;br /&gt;
+The core units we'll be focusing on are EBS volumes and EBS-backed AMIs. These are going to form the core of your server's identity.&lt;br /&gt;
+&lt;br /&gt;
+EBS volumes can start as either a Snapshot, which is basically  a tape backup of a drive at a point in time, or as an empty drive. Once created, they can then exist either as a detached ("available") volume, which is just like an unplugged hard drive sitting on the table, or an attached ("in-use") volume, which is like a drive plugged into a server. (Note that the server they are attached to doesn't have to be running.) You can leave EBS volumes sitting around detached as long as you like, and take snapshots of them whenever. &lt;br /&gt;
+&lt;br /&gt;
+EBS-backed AMIs are awesome, because we can take any Snapshot and make it the root device of an AMI. Then whenever you start the AMI, it would be like like taking that Snapshot (remember, tape backup), buying a server, copying the tape data onto the server's main hard drive, and starting it up. You still have the tape, and the server now has the tape data (as copied to its hard drive, a new EBS volume) as its starting point. &lt;br /&gt;
+&lt;br /&gt;
+The thing about AMIs is they don't really exist as servers, they exist as the idea of a server. Sort of a specification, not a saved state. They have a particular set of disks (or snapshots) to attach, a kernel to run, and an architecture, but that's about it. In most cases they're designed to destroy all the data they create during their lifetime, because AWS likes you to run things on-demand, not forever. Well in a VPS you want forever, so we're going to do some tricks to get there.&lt;br /&gt;
+&lt;br /&gt;
+What we're going to create in AWS is an AMI that, when you create an instance from it, creates and boots from an EBS volume containing the data in a Snapshot. When the instance is stopped (shut down) or terminated (deleted), the EBS volume it made will sit there detached in your list. &lt;br /&gt;
+&lt;br /&gt;
+This is important because while you could use an EBS-backed instance as a VPS simply by never terminating it once it's running, if for some reason it was terminated, you'd lose all the data on it unless you took a snapshot, but even then you'd be restoring from your last snapshot, not the moment the instance stopped. This is why termination protection exists, but a checkbox on a webpage is not enough to protect production data.&lt;br /&gt;
+&lt;br /&gt;
+Let's do some work. Look for a the AMI you want in the &lt;a href="https://console.aws.amazon.com/ec2/home?region=us-east-1#s=Images"&gt;AMI list&lt;/a&gt;. At the time of writing &lt;tt&gt;ami-3202f25b&lt;/tt&gt; (Ubuntu 10.04 20110201.1) is a good one. Launch it, and go to &lt;i&gt;Instances&lt;/i&gt;. When it's running, right-click it and select &lt;i&gt;Create Image (EBS AMI)&lt;/i&gt;. You'll see an AMI go to Pending in your list of AMIs Owned By Me, and a Snapshot go Pending as well. Get some paper and write down the Snapshot ID, then go back to AMIs and write down the Kernel ID.&lt;br /&gt;
+&lt;br /&gt;
+Now drop into your terminal where we'll be using some of the ec2 tools (you installed them, right?). You can't do what we want from the web console, which is to set up a server that keeps all its disks around when you terminate it. Use &lt;tt&gt;ec2reg&lt;/tt&gt; like so:&lt;br /&gt;
+&lt;blockquote&gt;&lt;code&gt;ec2reg -n 'Ubuntu 10.04 20110201.1 Base' -d 'Basic ubuntu server configuration' --root-device-name /dev/sda1 -b /dev/sda1=&lt;i&gt;your-snap-id&lt;/i&gt;:8:false -a x86_64 --kernel &lt;i&gt;your-kernel-id&lt;/i&gt;&lt;/code&gt;&lt;/blockquote&gt;What you just did was make an AMI (again, the &lt;i&gt;idea&lt;/i&gt; of a server) that runs Ubuntu 10.04. What's special about it is that when you make instances out of it, those instances don't destroy the data they made over their lifetime. The &lt;tt&gt;false&lt;/tt&gt; at the end of the &lt;tt&gt;-b&lt;/tt&gt; argument is the trick.&lt;br /&gt;
+&lt;br /&gt;
+So how many servers do you want? Just launch as many of those AMIs as you like and even if you terminate them, the stuff they do will still exist. You probably never actually &lt;i&gt;want &lt;/i&gt;to terminate them, only stop them, but you would be safe even if you did. Now you can safely install software right on your instances without running launch scripts or pasting in a bunch of userdata.&lt;br /&gt;
+&lt;br /&gt;
+Once you start running your instances, you'll still want to take snapshots of their volumes every so often. As long as you don't terminate your instances, only stop them, they'll work just like servers with hard drives. If you do terminate one, you'll need to do a little runaround. You'll have a detached volume that was that instance's root device. You can't boot a server from a detached EBS volume, only a snapshot. So take a snapshot of the detached root device, then run &lt;tt&gt;ec2reg&lt;/tt&gt; again with that snapshot as the snap-id. You now have a new 'rescue' AMI that really only represents that one particular instance, so when you launch a replacement instance from it, you should be right back where you left off. You can keep that AMI around if you want, the important thing is the snapshot. You can always create another AMI based on a standing snapshot that has the data you want, just make sure you pick the right kernel and mountpoints. Documentation helps here. &lt;br /&gt;
+&lt;br /&gt;
+So this is great for software on a server's root drive, but let's say you want to run a data storage engine on your VPS-like EC2 setup. You wouldn't be getting much of the benefits out of EC2 by having all that data stored right on the boot drive, far better to use a separate EBS volume for your data, or even a couple of them RAIDed together. This allows you to take data snapshots separately from system snapshots.&lt;br /&gt;
+&lt;br /&gt;
+There's 2 ways you could do this. First, we'll design a setup where all the instances you want will have a data volume mounted when they are launched.&lt;br /&gt;
+&lt;br /&gt;
+We'll need to make a different AMI to represent this, because you can't edit the launch block device configuration of an AMI once you've made it. We'll use  &lt;tt&gt;ec2reg&lt;/tt&gt; again:&lt;br /&gt;
+&lt;blockquote&gt;&lt;code&gt;ec2reg -n 'Ubuntu server with 10GB at sdf1' -d 'Ubuntu 10.04 with new 10GB volume at /dev/sdf1' --root-device-name /dev/sda1 -b /dev/sda1=&lt;i&gt;your-snap-id&lt;/i&gt;:8:false -b /dev/sdf1=:10:false -a x86_64 --kernel &lt;i&gt;your-kernel-id&lt;/i&gt;&lt;/code&gt;&lt;/blockquote&gt;This will create a new 10GB EBS volume at &lt;tt&gt;/dev/sdf1&lt;/tt&gt; when this AMI is launched. It won't actually be mounted in the OS, or even formatted, because the root device snapshot we're working with has no idea that it exists. If you're launching these for the first time this should be fine, because you can format it, declare it in &lt;tt&gt;fstab&lt;/tt&gt;, etc. and your changes will be safe due to the persistent root device. If you terminate an instance and have to reattach its snapshot to a new AMI later, you'll need to snapshot both the root and data volumes and include them in the rescue AMI:&lt;br /&gt;
+&lt;blockquote&gt;&lt;code&gt;ec2reg -n 'Redis slave server rescue AMI' -d 'Rescuing the redis slave from snapshots' --root-device-name /dev/sda1 -b /dev/sda1=&lt;i&gt;instance-snap-id&lt;/i&gt;:8:false -b /dev/sdf1=&lt;i&gt;instance-data-snap-id&lt;/i&gt;:10:false -a x86_64 --kernel &lt;i&gt;your-kernel-id&lt;/i&gt;&lt;/code&gt;&lt;/blockquote&gt;This will make an AMI that will let you relaunch that instance with both its root device and its data intact.&lt;br /&gt;
+&lt;br /&gt;
+The other way to do this is to simply create some EBS volumes and attach them to the instances you made from the first AMI. They won't be destroyed if you terminate the instances because they were attached after the instances launched. Just don't forget to reattach them if you have to rescue the instances, or include them in the rescue AMI as shown above.&lt;br /&gt;
+&lt;br /&gt;
+Taking into account the costs of data transfer, snapshot and EBS storage, and instance type runtime costs, this may or may not actually be cheaper than a standard VPS. You get a lot more headroom though, and easy integration with other AWS products.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2011-03-04T23:02:42.119Z</blogger:created>
+    <published>2011-03-05T01:17:00Z</published>
+    <updated>2011-03-05T01:17:30.059Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2011/03/using-amazon-ec2-like-cheap-confusing.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6643342256828395414</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>That's an excellent point. Many resumes we see have PHP listed under their "technologies used" section, but don't call out which job it was used in. So it's hard to tell exactly how recent or thorough their experience with the language is. &lt;BR/&gt;&lt;BR/&gt;We've addressed this by adding a phone screening round to our interview process.</content>
+    <blogger:created>2007-12-18T21:18:13.312Z</blogger:created>
+    <published>2007-12-18T21:18:00Z</published>
+    <updated>2007-12-18T21:18:13.316Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6826530078426966834</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Steve Jobs is the Tyler Durden of design</title>
+    <content type='html'>&lt;div class="separator" style="text-align: center;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4llow3ITvB2OsLAz0zIzCNOl6_wRHHApiSyLlKQtsHY9D0TVQoR2yIJ77izXhV1A_O4rOSD3nJx8CRO7lVcXv3EgDT1CgeMXBgqj7O7tgwDXUfSPXR4S8ipx-q4avl-WUVuoNmMHLjiI/s1600/original.jpeg" imageanchor="1" style="margin-left: 1em;"&gt;&lt;img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4llow3ITvB2OsLAz0zIzCNOl6_wRHHApiSyLlKQtsHY9D0TVQoR2yIJ77izXhV1A_O4rOSD3nJx8CRO7lVcXv3EgDT1CgeMXBgqj7O7tgwDXUfSPXR4S8ipx-q4avl-WUVuoNmMHLjiI/s320/original.jpeg" width="225" style='float:left' /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="separator" style="text-align: center;"&gt;
+&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtHZJpCrXzY2omDaAXSJfCG8TMM4hEMn8qZDDvBfrsC0k32Gf3whsmpRpeNs4QsDZOvXJSQfOZU6si9Z5YkNuZqvDzjykMXWq87pnBUDXEl5dqVHD3XU6-s29BY5OPLDSJWJYqc7anfZd/s1600/steve_jobs3.jpg" imageanchor="1" style="float: right; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtHZJpCrXzY2omDaAXSJfCG8TMM4hEMn8qZDDvBfrsC0k32Gf3whsmpRpeNs4QsDZOvXJSQfOZU6si9Z5YkNuZqvDzjykMXWq87pnBUDXEl5dqVHD3XU6-s29BY5OPLDSJWJYqc7anfZd/s320/steve_jobs3.jpg" width="185" /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p style='clear: both'&gt;All the ways you wish you could be, that's me. I talk like you want to talk, I control like you want to control, I am smart, capable, and most importantly, I am free in all the ways that you are not.&lt;/p&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2011-10-20T18:36:41.634Z</blogger:created>
+    <published>2011-10-20T18:42:00Z</published>
+    <updated>2011-10-21T06:05:10.417Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2011/10/steve-jobs-is-tyler-durden-of-design.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6862632420242711144</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-10157981341651252</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>We're definitely in agreement. I just think the self-directed route is a much harder path to take, and I have a hard time encouraging people toward it who are trying to decide whether or not to take classes. &lt;BR/&gt;&lt;BR/&gt;It IS a miracle of man that we have such an ocean of free knowledge available, and bully to those who turn that into greatness. But for myself and most others I meet, the only way to turn that knowledge to greatness through deliberate practice is under the guidance of another person. Degrees are just a great way to pay a lot for the best guidance you can find. :)</content>
+    <blogger:created>2008-06-24T04:55:26.057Z</blogger:created>
+    <published>2008-06-24T04:55:00Z</published>
+    <updated>2008-06-24T04:55:26.067Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-6913403719468583503</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-6488655660012278456</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'>In price terms Amazon is often not the cheapest cloud hosting provider. You can check on your own with &amp;lt;a href=&amp;quot;http://www.cloudorado.com/&amp;gt;www.cloudorado.com&amp;lt;/a&amp;gt; to check how much a server would cost at Amazon and other providers.</content>
+    <blogger:created>2011-08-02T14:28:39.575Z</blogger:created>
+    <published>2011-08-02T14:28:39.575Z</published>
+    <updated>2011-08-02T14:28:39.575Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-7054832564405805854</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Extending Iterator for fun, profit, and hassles</title>
+    <content type='html'>PHP's built-in &lt;a href="http://us.php.net/manual/en/language.oop5.iterations.php"&gt;Iterator class&lt;/a&gt; is lovely, as is the &lt;a href="http://us.php.net/manual/en/ref.spl.php"&gt;SPL's overcomplicated interpretation&lt;/a&gt;. But as soon as you want to do something interesting, like say, go to the previous item in an object, both these implementations fall flat. That's right, you can't call $iterator-&gt;prev() on ANY SPL Iterator classes, because PHP's built-in Iterator doesn't have it! This seems to me a major oversight, especially considering the array functions that power most Iterator implementation have it &lt;a href="http://us.php.net/manual/en/function.prev.php"&gt;right there&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;The other thing you can't do is focus an iterator on a particular item in it. This is more understandable, as arrays have no concept of this. Iterable objects should though.&lt;br /&gt;&lt;br /&gt;So here at Treemo, we use lots of list objects. Lists of content, users, comments, etc. etc. Lists, obviously, should be iterable, but we'd like to be able to navigate in &lt;span style="font-style:italic;"&gt;both&lt;/span&gt; directions, and focus on objects we're interested in.. So we cooked up a base class that does all its Iterator management by hand, because the only way to get this functionality cleanly is to do everything yourself. Because nobody should EVER have to do this twice, and because PHP didn't do it for me the way it ought to have, I'm gifting it to you.&lt;br /&gt;&lt;pre&gt;&lt;br /&gt;/**&lt;br /&gt; * A modifiable list object&lt;br /&gt; * &lt;br /&gt; * @package Core&lt;br /&gt; */&lt;br /&gt;class ObjectList implements Iterator&lt;br /&gt;{&lt;br /&gt;  /**&lt;br /&gt;   * The internal array backing for the list&lt;br /&gt;   *&lt;br /&gt;   * @var Array&lt;br /&gt;   */&lt;br /&gt;  protected $items;&lt;br /&gt;  &lt;br /&gt;  /**&lt;br /&gt;   * The current index of the list.&lt;br /&gt;   *&lt;br /&gt;   * @var int&lt;br /&gt;   */&lt;br /&gt;  protected $key;&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Create the list from either nothing or an array of existing items.&lt;br /&gt;   *&lt;br /&gt;   * @param Array $items&lt;br /&gt;   */&lt;br /&gt;  public function __construct ($items = null)&lt;br /&gt;  {&lt;br /&gt;    if (! is_null($items))&lt;br /&gt;    {&lt;br /&gt;      $this-&gt;items = $items;&lt;br /&gt;    } else&lt;br /&gt;    {&lt;br /&gt;      $this-&gt;items = array();&lt;br /&gt;    }&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Focus the list on its first element.&lt;br /&gt;   */&lt;br /&gt;  public function rewind ()&lt;br /&gt;  {&lt;br /&gt;    $this-&gt;key = 0;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Get the next item in the list.&lt;br /&gt;   *&lt;br /&gt;   * @return Object&lt;br /&gt;   */&lt;br /&gt;  public function next ()&lt;br /&gt;  {&lt;br /&gt;    if (array_key_exists($this-&gt;key + 1, $this-&gt;items))&lt;br /&gt;    {&lt;br /&gt;      return $this-&gt;items[++ $this-&gt;key];&lt;br /&gt;    } else&lt;br /&gt;    {&lt;br /&gt;      $this-&gt;key = count($this-&gt;items);&lt;br /&gt;      return false;&lt;br /&gt;    }&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Get the previous item in the list.&lt;br /&gt;   * &lt;br /&gt;   * @return Object&lt;br /&gt;   */&lt;br /&gt;  public function prev ()&lt;br /&gt;  {&lt;br /&gt;    if ($this-&gt;key &lt; 0)&lt;br /&gt;    {&lt;br /&gt;      return false;&lt;br /&gt;    }&lt;br /&gt;&lt;br /&gt;    return $this-&gt;items[$this-&gt;key--];&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Focus the list on a particular object.&lt;br /&gt;   *&lt;br /&gt;   * @param object $item the needle&lt;br /&gt;   * @return object or FALSE if the object was not found.&lt;br /&gt;   */&lt;br /&gt;  public function focus ($item)&lt;br /&gt;  {&lt;br /&gt;    $k = array_search($item, $this-&gt;items);&lt;br /&gt;    if ($k !== false)&lt;br /&gt;    {&lt;br /&gt;      $this-&gt;key = $k;&lt;br /&gt;      return $this-&gt;items[$this-&gt;key];&lt;br /&gt;    }&lt;br /&gt;    return false;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Focus the list on its last item, and return it.&lt;br /&gt;   *&lt;br /&gt;   * @return object&lt;br /&gt;   */&lt;br /&gt;  public function end ()&lt;br /&gt;  {&lt;br /&gt;    $this-&gt;key = count($this-&gt;items) - 1;&lt;br /&gt;    return $this-&gt;items[$this-&gt;key];&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Return the item that the list is currently focused on, or FALSE if it is&lt;br /&gt;   * focused beyond the end of the list.&lt;br /&gt;   *&lt;br /&gt;   * @return object&lt;br /&gt;   */&lt;br /&gt;  public function current ()&lt;br /&gt;  {&lt;br /&gt;    return (isset($this-&gt;items[$this-&gt;key]) ? $this-&gt;items[$this-&gt;key] : false);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Return the current list index.&lt;br /&gt;   *&lt;br /&gt;   * @return int&lt;br /&gt;   */&lt;br /&gt;  public function key ()&lt;br /&gt;  {&lt;br /&gt;    return $this-&gt;key;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Return the status of the lists' index. Is it between 0 and the end of the list?&lt;br /&gt;   *&lt;br /&gt;   * @return bool&lt;br /&gt;   */&lt;br /&gt;  public function valid ()&lt;br /&gt;  {&lt;br /&gt;    return ($this-&gt;key &gt;= 0) &amp;&amp; ($this-&gt;key &lt; count($this-&gt;items));&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Returns the length of the list.&lt;br /&gt;   *&lt;br /&gt;   * @return int&lt;br /&gt;   */&lt;br /&gt;  public function count ()&lt;br /&gt;  {&lt;br /&gt;    return count($this-&gt;items);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Append an object onto the end of the in-memory list.&lt;br /&gt;   *&lt;br /&gt;   * @param object $newObject&lt;br /&gt;   * @return int 1 for success, 0 for failure.&lt;br /&gt;   */&lt;br /&gt;  public function append ($newObject)&lt;br /&gt;  {&lt;br /&gt;    return array_push($this-&gt;items, $newObject);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Prepend an object onto the beginning of the in-memory list.&lt;br /&gt;   *&lt;br /&gt;   * @param object $newObject&lt;br /&gt;   * @return int 1 for success, 0 for failure&lt;br /&gt;   */&lt;br /&gt;  public function prepend ($newObject)&lt;br /&gt;  {&lt;br /&gt;    return array_unshift($this-&gt;items, $newObject);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  /**&lt;br /&gt;   * Insert an object into the list after $prevObject&lt;br /&gt;   *&lt;br /&gt;   * @param object $newObject&lt;br /&gt;   * @param object $prevObject&lt;br /&gt;   */&lt;br /&gt;  public function insertAfter ($newObject, $prevObject)&lt;br /&gt;  {&lt;br /&gt;    $oldFocus = $this-&gt;key();&lt;br /&gt;    &lt;br /&gt;    $this-&gt;focus($prevObject);&lt;br /&gt;    $k = $this-&gt;key();&lt;br /&gt;    &lt;br /&gt;    $this-&gt;items[$k] = $prevObject;&lt;br /&gt;    &lt;br /&gt;    $this-&gt;key = $oldFocus;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;}&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;Hope this is useful. Maybe I just miss Java a lot, but it really bugs me that more of this functionality isn't baked into PHP. Anyway, this class gets really interesting when you start extending it in a database-backed way:&lt;br /&gt;&lt;pre&gt;&lt;br /&gt;class UserFriendList extends ObjectList&lt;br /&gt;{&lt;br /&gt;  /**&lt;br /&gt;   * Objects in this list are friends of this user&lt;br /&gt;   *&lt;br /&gt;   * @var User&lt;br /&gt;   */&lt;br /&gt;  protected $owner;&lt;br /&gt;  &lt;br /&gt;  public function __construct( User $user )&lt;br /&gt;  {&lt;br /&gt;    $this-&gt;owner = $user;&lt;br /&gt;    &lt;br /&gt;    $friendIds = $db-&gt;query( "SELECT user_id FROM friends WHERE owner_id = $user-&gt;user_id");&lt;br /&gt;    foreach( $friendIds as $friend )&lt;br /&gt;    {&lt;br /&gt;      $this-&gt;items[] = new User( $friend );&lt;br /&gt;    }&lt;br /&gt;  }&lt;br /&gt;  &lt;br /&gt;  public function prepend( $newObject )&lt;br /&gt;  {&lt;br /&gt;    if( $db-&gt;query( "INSERT INTO friends (user_id, owner_id) VALUES ( $newObject-&gt;user_id, {$this-&gt;owner-&gt;user_id})"))&lt;br /&gt;    {&lt;br /&gt;      parent::prepend( $newObject );&lt;br /&gt;    }&lt;br /&gt;  }&lt;br /&gt;}&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;...and so on and so forth. (Obviously this code is a quick example, don't run database queries like this!)&lt;br /&gt;&lt;br /&gt;Good luck, and good coding!</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-11-12T07:23:32.343Z</blogger:created>
+    <published>2007-11-12T07:22:00Z</published>
+    <updated>2007-11-13T06:18:44.808Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/11/extending-iterator-for-fun-profit-and.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-7409958595186051233</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>On Moving, Part 2</title>
+    <content type='html'>&lt;span style="font-size:130%;"&gt;Departure&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.treemo.com/users/niralisse/channel/item/235244"&gt;&lt;img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px;" src="http://www.treemo.com/files/treemo.niralisse.235244.mm.jpg" alt="" border="0" /&gt;&lt;/a&gt;&lt;span style="font-size:100%;"&gt;Here are some things we did that worked when leaving our space in Ballard:&lt;br /&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Sent contingents from each team to the candidate office spaces&lt;/li&gt;&lt;li&gt;Put our office manager &lt;span style="font-style: italic;"&gt;really&lt;/span&gt; in charge of the moving details and scheduling&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Had everyone fill out the office map in the way they felt best and combined them to create the final layout&lt;/li&gt;&lt;li&gt;Allowed our IT team to spend plenty of time readying the infrastructure move&lt;/li&gt;&lt;li&gt;Hired a mover (we didn't do that the first time...)&lt;/li&gt;&lt;li&gt;Bought everybody FlexPasses to compensate for the loss of parking&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;Mercifully, I was insulated from most of the thousands of decisions and jobs to be done when moving 10 people's workspace. All I had to do was pack up my things and unplug my workstation. It seems like that's exactly right for what I need to do for my job. And after so much time here having to worry about everything, it was a nice change.&lt;br /&gt;I'm certain that others in the company were frantically busy trying to get everything moved, and obviously they did a wonderful job. I love it when a plan comes together.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-12-17T19:02:19.205Z</blogger:created>
+    <published>2007-12-17T19:01:00Z</published>
+    <updated>2007-12-19T04:40:30.709Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/12/on-moving-part-2.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-7636904600207909063</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Cheap event handling</title>
+    <content type='html'>Websites, whether anyone realizes it or not, are basically event-driven. Request comes in, page comes out. Blogs go in, RSS goes out. Nothing changes until someone clicks the link, uploads the blog post, submits the form.&lt;br /&gt;&lt;br /&gt;Because pages are the only thing a user consciously requests, websites were traditionally organized on a page-by-page basis. The site was nothing without the pages. But pages make all kinds of decisions about what is going to occur on them. What forms are available, what information is displayed, the groupings of necessary data.&lt;br /&gt;&lt;br /&gt;In a large-scale system like Treemo, there is much more than pages to worry about. In fact, presenting the actual web pages represents maybe 30% of the logic in the system. &lt;span style="font-style: italic;"&gt;Deciding what to do&lt;/span&gt; is the real problem. Is this a request for an HTML page? An  XHTML page? An SMS message? An RSS feed? A picture? An account upgrade? Once we've decided on what's being asked for, objects get inflated from the database and &lt;span style="font-style: italic;"&gt;something happens.&lt;/span&gt; Then what?&lt;br /&gt;&lt;br /&gt;Well, all kinds of things. Things happening in the system have side-effects. A user buying a paid account has their quota lifted. A photo being uploaded causes notifications to be sent. A site message being sent causes another user's inbox to have a new message.&lt;br /&gt;&lt;br /&gt;The list is very long. Any request- or event-driven system is basically built on these foundations. Something Has Happened, and Important Classes Need To Know.  OO GUI frameworks took this to its logical conclusion. Dozens of event classes from AncestorEvent to UndoableEditEvent. Then classes can attach themselves to controls as listeners of these events, and be guaranteed that anytime the event occurs, the class will be notified.&lt;br /&gt;&lt;br /&gt;On the web, for some reason, I don't see this paradigm much. One trouble spot for us as a PHP shop is that we're guaranteed that class state is NOT maintained across requests. This is different from a native GUI application, in which all the classes are sitting in memory, so when the event fires, the listening object is already there. Also, the list of listeners is easily maintained as an in-memory data structure. Not so much in PHP. In PHP you have to back your objects with databases, and listener structures are not so simple to generically store.&lt;br /&gt;&lt;br /&gt;Of course, if you were really clever, you would use an ORM tool like DB_DataObject, but we aren't quite so fortunate (also DB_DataObject is really slow, and &lt;a href="http://www.akbkhome.com/wiki.php/DBDO/index.html"&gt;DBDO&lt;/a&gt; isn't ready yet). With or without ORM, you still have to have tables, how would that look?&lt;br /&gt;&lt;br /&gt;The first time we encountered this problem we had, as usual, far too little time to think about it, and the primary concern we had was that it be asynchronous. At the time, this need was driven by the idea that we needed to perform regular billing events for paid users. Subscription billing is generated by time elapsing, so there needed to be a way to schedule future events.&lt;br /&gt;&lt;br /&gt;Unfortunately, we designed a system that was Just Good Enough, and it has lasted all this time. It's fully asynchronous, which creates big problems in a dynamic system. State changes are very rapid, and being sure you placed EVERY piece of data EXACTLY in right the queue is too much detail to think about, and fails silently. Here's how it looks now:&lt;br /&gt;&lt;pre&gt;&lt;br /&gt;$extra = array(&lt;br /&gt;  'message' =&gt; $_POST['message'],&lt;br /&gt;  'from' =&gt; $request-&gt;viewer-&gt;user_id&lt;br /&gt;);&lt;br /&gt;$evt = new event('share', $extra);&lt;br /&gt;$evt-&gt;fire();&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;The fire() method inserts a row in the database containing the type, the extra array, and the timing data (when to process, etc.) A daemon then consumes the rows, and initiates handlers, which look something like this:&lt;br /&gt;&lt;pre&gt;&lt;br /&gt;class shareHandler extends eventHandler&lt;br /&gt;{&lt;br /&gt; /**&lt;br /&gt;  * Handle a share event.&lt;br /&gt;  *&lt;br /&gt;  * extraData array:&lt;br /&gt;  * 'to' =&gt; Array of Email address or phone numbers. Required.&lt;br /&gt;  * 'from' =&gt; The user_id of the sender. Required.&lt;br /&gt;  * 'what' =&gt; String, url of the page that is being shared.&lt;br /&gt;  * 'message' =&gt; Text of the message. Defaults to _____.tpl&lt;br /&gt;  */&lt;br /&gt;public function handle() {&lt;br /&gt;...&lt;br /&gt;}&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;So this works fairly well, but the linchpin is that twiddly extraData bit. What happens when the caller fails to place the right data in there? Well, nobody will know it until the event daemon actually picks it off the queue, but that happens minutes or even hours after the request which generated the event occurred. &lt;br /&gt;&lt;br /&gt;What we'd like to happen is for the caller to know a lot more about what's going on. If the user sharing content types in an invalid phone number, for example, it would be best if s/he could be notified of it immediately. So one simple way to do that for us is to move the event processing right into the request processing and do away with the daemon.&lt;br /&gt;&lt;br /&gt;Much like MDB2, the event processor could be represented as a singleton object that all the classes could send events to - which it technically is now anyway. So, you want to share something? Try it this way:&lt;br /&gt;&lt;pre&gt;&lt;br /&gt;$evt = new ShareEvent( $_POST['message'], $request-&gt;viewer-&gt;user_id );&lt;br /&gt;$evtProc = EventProcessor::singleton();&lt;br /&gt;$result = $evtProc-&gt;fire( $evt );&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;This fixes two of the major problems with the existing events. 1) Event parameters can be type-hinted and required in the constructor, because in this scheme &lt;em&gt;events&lt;/em&gt; are typed, rather than &lt;em&gt;handlers&lt;/em&gt;. 2) Notice how you get a $result back from the event firing? The request processor can actually deal with the results of the event's handling! The event processing itself can even throw exceptions if it needs to! This is much better.&lt;br /&gt;&lt;br /&gt;Of course, you might not even need the singleton object, depending on your model. We're going to need it for tracking purposes, but at its core this pattern is no different than a good object model for system events. To do away with the singleton, just have your Event interface expose the fire() method. Or even if you need central points of logic for event processing, have the abstract event() class implement fire() and call parent::fire() in your extenders. This has lots of room for flexibility.&lt;br /&gt;&lt;br /&gt;For more on events, and the observer pattern specifically, see the page on &lt;a href="http://devzone.zend.com/article/5-PHP-Patterns-The-Observer-Pattern"&gt;The Observer Pattern&lt;/a&gt; at ZDZ.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-10-25T03:44:56.296Z</blogger:created>
+    <published>2007-11-04T03:43:00Z</published>
+    <updated>2007-11-13T06:43:25.873Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/10/cheap-event-handling.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-7806986722150580480</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-1039099840015091975</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name></name>
+      <blogger:type>ANONYMOUS</blogger:type>
+    </author>
+    <content type='html'>Hi,
+
+Could you fix code examples, they all are missing
+
+Thanks</content>
+    <blogger:created>2013-12-03T15:12:43.123Z</blogger:created>
+    <published>2013-12-03T15:12:43.123Z</published>
+    <updated>2013-12-03T15:12:43.123Z</updated>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-7869346886862397648</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Cisco VPN vs. Parallels 4.0</title>
+    <content type='html'>If you're using Cisco VPNClient on OS X 10.5, and you have Parallels 4.0 installed, you may be treated to the following error when attempting to start a VPN connection over ppp - a typical use case for an on-call developer using a 3G modem like the USBConnect Mercury:&lt;br /&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;br /&gt;305 10:28:16.787 05/22/2008 Sev=Warning/2 CVPND/0x83400011&lt;br /&gt;Error -28 sending packet.&lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;Output size mismatch. Actual: 0, Expected: 237. (DRVIFACE:1319) &lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;The fix for this is to uninstall Parallels and buy VMWare fusion instead because Parallels is slow and it sucks. If there's a workaround I don't have the patience to find it.</content>
+    <blogger:metaDescription/>
+    <blogger:created>2009-09-09T23:45:54.924Z</blogger:created>
+    <published>2009-09-09T23:44:00Z</published>
+    <updated>2009-09-09T23:50:33.098Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2009/09/cisco-vpn-vs-parallels-40.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-8033459460650615384</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>DRAFT</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title/>
+    <content type='html'/>
+    <blogger:metaDescription/>
+    <blogger:created>2020-08-30T19:20:12.181Z</blogger:created>
+    <published>2020-08-30T19:20:00Z</published>
+    <updated>2020-08-30T19:20:12.261Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename/>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-8396675161175999252</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Rails routing gotcha: Don't name a route not_found</title>
+    <content type='html'>When moving our app to Bundler, I got the following error:&lt;br /&gt;
+&lt;br /&gt;
+&lt;blockquote style="font-family: &amp;quot;Courier New&amp;quot;,Courier,monospace;"&gt;(__DELEGATE__):2:in `not_found': wrong number of arguments (2 for 0)&lt;br /&gt;
+(ArgumentError)&lt;br /&gt;
+from (__DELEGATE__):2:in `send'&lt;br /&gt;
+from (__DELEGATE__):2:in `not_found'&lt;br /&gt;
+from /app_dir/vendor/rails/activesupport/lib/active_support/&lt;br /&gt;
+option_merger.rb:20:in `__send__'&lt;br /&gt;
+from /app_dir/vendor/rails/activesupport/lib/active_support/&lt;br /&gt;
+option_merger.rb:20:in `method_missing'&lt;br /&gt;
+from /app_dir/config/routes/plaza_routes.rb:5&lt;br /&gt;
+from /app_dir/vendor/rails/activesupport/lib/active_support/core_ext/&lt;br /&gt;
+object/misc.rb:78:in `with_options'&lt;br /&gt;
+from /app_dir/vendor/rails/actionpack/lib/action_controller/routing/&lt;br /&gt;
+route_set.rb:51:in `namespace'&lt;/blockquote&gt;&lt;br /&gt;
+The secret was a route that looked like this:&lt;br /&gt;
+&lt;br /&gt;
+&lt;blockquote style="font-family: &amp;quot;Courier New&amp;quot;,Courier,monospace;"&gt;global.not_found '/not_found', :controller =&amp;gt; 'home', :action =&amp;gt; &lt;br /&gt;
+'not_found'&lt;/blockquote&gt;&lt;br /&gt;
+The solution? Rename the route to something else. No idea why this wasn't exposed before, but at least there's a solution!</content>
+    <blogger:metaDescription/>
+    <blogger:created>2011-02-25T18:35:39.379Z</blogger:created>
+    <published>2011-02-25T18:38:00Z</published>
+    <updated>2011-02-25T18:38:05.660Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2011/02/rails-routing-gotcha-dont-name-route.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-8400552915564750281</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>How to lose a million and be smarter for it</title>
+    <content type='html'>&lt;span style="font-style: italic;"&gt;&lt;a href="http://www.amazon.com/What-Learned-Losing-Million-Dollars/dp/0963579495/ref=pd_bbs_sr_1/002-4962177-8841643?ie=UTF8&amp;amp;s=books&amp;amp;qid=1193373355&amp;amp;sr=8-1"&gt;What I Learned Losing a Million Dollars&lt;/a&gt; &lt;/span&gt;should have more recognition (not to mention distribution) because what it has to say is excellent. It tells the story of Jim Paul, a trader "from hunger" who rode some combination of luck, timing and hubris all the way to the Executive Board of the Chicago Mercantile Exchange. Then he gets a wild hare that bean oil futures are going to skyrocket, and when they do, he doesn't get out. He stays convinced that they're going to the moon... and they don't. $1,200,000 later, he loses his seat on the Exchange and discovers that he had never been a trader after all. Really just lucky.&lt;br /&gt;&lt;br /&gt;But why did he stay in? He proceeds to take the psychology of market loss on a trip around that mountain. After a market loss, most people study a different way to find profit in the market, in order to make the money back. And Paul did that for a while, but discovered that all the great traders contradicted themselves on what worked. Where they agreed was that one should not lose money. "There are as many ways to make money in the markets," says Paul, "as there are participants. But only two ways to lose it."&lt;br /&gt;&lt;br /&gt;Losses, Paul explains, occur either due to a failure of analysis or failure to execute on the analysis. Most analytical methods allow for some loss, which is expected, but catastrophic loss is typically due to a failure of execution. So, how do you not fail to execute?&lt;br /&gt;&lt;br /&gt;First, you must understand your motive for participating in the market. Is it a "&lt;span style="font-style: italic;"&gt;profit motive&lt;/span&gt;" or a "&lt;span style="font-style: italic;"&gt;prophet motiv&lt;/span&gt;e"? Do you want to be right or be rich? Because if you want to be right, a continuous process like business markets is probably not for you. You should play poker. If you want to be rich, you should be careful not to confuse the two, and proceed to make some  further distinctions: what is your stop-loss point, why are you entering, and what is your goal, &lt;span style="font-style: italic;"&gt;in that order.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Applying this metric allows you to take the beneficial properties of games, that of discrete bets or gambles, and apply them to markets. You're "chunking" your risk exposure into discrete blocks that you are aware of &lt;span style="font-style: italic;"&gt;before &lt;/span&gt;you enter the market. Then your market play becomes a simple if-then series.&lt;br /&gt;&lt;br /&gt;I mention all this because I'm watching my father struggle after 8 months floundering in the job market, and his words echo that of Paul losing his bean-oil futures. "It'll turn around! I'll certainly have a job by April." Well, what if you don't? What's your stop-loss point? When are you going to exit this obviously failing market? Hiring, like any market, is a continuous process, and to forever expose yourself to the risk of your share in it plummeting is a fool's game.&lt;br /&gt;&lt;br /&gt;The lesson applies equally well to businesses. We've changed our profit strategy several times here at Treemo because we're not so foolish as to think being "right" will create a sustainable company. Mobile media sharing has a lot of possibility, and sticking to one of them in the face of obvious failure is a great way to burn a lot of investor money. We're happy with the stance we're taking right now, and it's getting a great response in the market. It took plenty of experimentation to get there.&lt;br /&gt;&lt;br /&gt;But more than that, we've got controls. The business plans have direction changes in them for when business dries up in any area. There's plenty of stop-loss, so I sleep well at night knowing that long before the bank account gets thin, we've got a plan. And so should you. What are the markets you invest in?&lt;br /&gt;&lt;br /&gt;Most of us have a job market in which our investment is our time and training. We also have networking markets that we play, knowledge markets, even habits. What are the areas that you've internalized external markets that fail you? Do you, like my father, see a dry job market as a reflection of your self-worth? Is that going to cause you to hold to a failing strategy just to prove yourself right? Or will you have the prescience to exit because you'd rather be rich?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-style: italic;"&gt;&lt;/span&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2007-10-26T04:38:03.360Z</blogger:created>
+    <published>2007-10-26T04:35:00Z</published>
+    <updated>2007-10-26T05:03:37.493Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/2007/10/how-to-lose-million-and-be-smarter-for.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-2793576348171340857.post-8451072668997724739</id>
+    <blogger:parent>tag:blogger.com,1999:blog-2793576348171340857.post-2223076782916222173</blogger:parent>
+    <blogger:inReplyTo/>
+    <blogger:type>COMMENT</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>intjonathan</name>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <content type='html'>Heh, no worries. We talked to a lot of losers before you came along.</content>
+    <blogger:created>2007-12-08T08:05:19.359Z</blogger:created>
+    <published>2007-12-08T08:05:00Z</published>
+    <updated>2007-12-08T08:05:19.364Z</updated>
+    <blogger:trashed/>
+  </entry>
+</feed>

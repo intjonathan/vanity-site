@@ -9,7 +9,7 @@ author: Jonathan Owens
 
 A talk given with Jose Fernandez at FutureStack, the New Relic Developer Conference, on 7 December 2016 in San Francisco.
 
-We presented service architecture patterns our team used to incrementally decompose a monolithic Java service at New Relic. The "collector" processed hundreds of millions of time series data points per minute and had grown alongside the company until nobody fully understood its behavior. Rather than a risky full rewrite, we broke it apart one data stream at a time.
+We presented service architecture patterns our team used to incrementally decompose a monolithic Java service at New Relic. The "collector" processed hundreds of millions of time series data points per minute. It handled several diffenent datatypes and products, growing as the company did until nobody fully understood its behavior. Rather than a risky full rewrite, we broke it apart one data stream at a time.
 
 ## Video
 
@@ -19,27 +19,23 @@ We presented service architecture patterns our team used to incrementally decomp
 
 ### The monolith problem
 
-New Relic's collector service was a monolithic JVM that ingested, aggregated, and stored all customer telemetry data. It had grown organically with the company's superlinear traffic growth until the codebase was too large for anyone to fully understand. Every engineer who touched it "caught the sad." It couldn't be rewritten all at once, though, because the business depended on it running continuously. The approach had to be incremental: break it apart one chunk at a time.
+New Relic's collector service was a monolithic JVM that ingested, aggregated, and stored all customer telemetry data. It had grown organically with the company's superlinear traffic growth until the codebase was too large for anyone to fully understand. Every engineer who touched it caught the sad. It couldn't be rewritten all at once, though, because the business depended on it running continuously. The approach had to be incremental: break it apart one chunk at a time.
 
-### Choosing what to extract first
-
-More services isn't the goal; reducing pain is. Developer pain was tempting to target, but scale pain turned out to be the right angle. Time series data ("time slices") was the biggest scale concern: hundreds of millions per minute, requiring both aggregation and storage to MySQL. Time slices also had a useful property: isolation. Only one system wrote them, one stored them, and one queried them, making them a clean extraction target.
+This wasn't done just so that we could add more services in a vain pursuit of a decoupled architecture. We needed to focus on reducing the pain of interacting with the system. Whose pain? While developer pain was tempting to target, "scale pain" turned out to be the right angle. Time series data ("timeslices" inside NR) was the biggest scale concern inside the collector: hundreds of millions of datapoints per minute, requiring both in-memory aggregation in the JVM and writes to MySQL. Time slices also had a useful property: isolation. The collector was the only system which received and stored them, making for a clean extraction target.
 
 ### Building in the dark with Kafka
 
-The mandate was zero customer-facing impact. The team introduced Kafka as a data bus, cloning time slice data out of the collector into a parallel "dark" pipeline. This was a small change to the collector, and once the data was flowing into Kafka, the monolith didn't need to be touched again. The dark pipeline stored data to Cassandra instead of MySQL, giving the team freedom to iterate without affecting customers.
+The team's mandate was zero customer-facing impact. But how to experiment on the most critical user-facing system? Kafka was already in heavy use internally, but not for timeslices. So the team added Kafka topics for timeslices, cloning this data out of the collector into a parallel "dark" pipeline. This was a small, low-impact change to the collector, and once the data was flowing into Kafka, the collector write path didn't need to be touched again. The dark pipeline flowed data to Cassandra consumers, giving the team freedom to iterate without affecting customers.
 
-### Shadow reads for verification
-
-To prove the new pipeline was correct, the team added instrumentation to the existing query service. When a query came in, results and performance data from the legacy MySQL path were recorded alongside the same query executed against Cassandra. Both sets of results were sent to New Relic Insights, where the team could chart a "horse race" between the two systems. Cassandra was significantly faster, and the results matched, giving the team and leadership confidence that the new pipeline was sound.
+At this point we had the system writing data, but we didn't have any way to check whether it was correct. So the team added instrumentation to the existing query service. When a query came in, the results and performance data from the legacy MySQL path were recorded alongside the same query executed against Cassandra. Both sets of results were sent to New Relic Insights, where the team could chart a "horse race" between the two systems. Cassandra was significantly faster, and the results matched, giving the team and leadership confidence that the new pipeline was sound.
 
 ### Splitting services further
 
-The initial extraction produced a single "minute aggregator" service that consumed data from Kafka, aggregated it, and wrote to Cassandra. It didn't perform well enough. Since the team was working in the dark, they could safely experiment: splitting aggregation (CPU and memory intensive) from writing (I/O and network intensive) into separate services with separate performance profiles. Half the team was skeptical, but the data proved it out. Each finer split also exposed more data into Kafka, unlocking new opportunities. The aggregated data queue, for instance, turned out to be the "data firehose" that other teams had always wanted access to.
+The initial extraction produced a single "minute aggregator" service that consumed data from Kafka, aggregated it, and wrote to Cassandra. It didn't perform well, but it did write the correct data. Since the team was working in the dark, they could safely experiment, first by splitting aggregation (CPU and memory intensive) from writing (I/O and network intensive) into separate services. Half the team was skeptical, but the data proved it out. Each finer split also exposed more data into Kafka, unlocking new opportunities. The aggregated data queue, for instance, turned out to be the "data firehose" that other teams had always wanted access to.
 
 ### Finding service boundaries
 
-Two rules guided decomposition:
+The team continued to split services as needed. Two rules guided decomposition:
 
 1. Conway's Law: service boundaries should match organizational communication boundaries. One team owned the monolith and steered which pieces got extracted and by whom.
 2. Experimental proof: within a team, further splits had to be justified by data, whether that was performance improvement, operational simplicity, or enabling team growth.
@@ -48,7 +44,7 @@ The connecting tissue was Kafka. When services communicate through a shared stre
 
 ### Putting ops in the dev
 
-The collector had burned out engineers, partly because the team was all developers with no operations perspective. Through New Relic's "Upscale" reorganization, SREs joined product teams permanently rather than being loaned out on a ticket queue. The team went from waiting weeks for infrastructure changes to pairing in a room and finishing in a day. SREs brought a broader perspective to design decisions, and teams with a permanent reliability engineer shipped faster and made fewer architectural mistakes. Jonathan and Jose proposed calling this role a "Product Reliability Engineer" to distinguish it from the traditional loaned-out SRE model.
+Operating the collector had burned out many engineers, partly because the team was all developers with no operations perspective. Through New Relic's "Upscale" reorganization, SREs joined product teams permanently rather than being loaned out on a ticket queue. The team went from waiting weeks for infrastructure changes to pairing in a room and finishing in a day. SREs brought a broader perspective to design decisions, and teams with an SRE member shipped faster and made fewer architectural mistakes. Jonathan and Jose proposed calling this role a "Product Reliability Engineer" to distinguish it from the traditional loaned-out SRE model.
 
 ### Containers as architecture guardrails
 

@@ -45,7 +45,7 @@ Have you tried making the description of the problem into an unutterably powerfu
 Have you tried a training montage and climactic final battle with the problem?\
 Have you tried the solution that was inside you all along?\
 Have you tried taking the wizard's advice he gave you in the beginning?\
-Have you tried... oh, you have?\ That too?\ Wow... maybe talk to Ward.
+Have you tried... oh, you have? That too? Wow... maybe talk to Ward.
 
 _Thanks to [Grognor](https://grognor.blogspot.com/2016/12/have-you-tried-solving-problem.html) and [Michael Nielsen](https://twitter.com/michael_nielsen/status/722867944699486208)_
 

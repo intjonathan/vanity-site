@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% if page.docs %}
+<ul>
+  {% for doc in page.docs %}
+    <li>
+      <a href="{{ doc.url }}">{{ doc.title }}</a>
+      {% if doc.description %}<p>{{ doc.description }}</p>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}

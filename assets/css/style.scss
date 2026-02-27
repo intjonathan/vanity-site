@@ -12,6 +12,12 @@ section {
   width: calc(100% - 330px);
 }
 
+iframe {
+  width: 100%;
+  height: 80vh;
+  border: 1px solid #e5e5e5;
+}
+
 @media print, screen and (max-width: 960px) {
   section {
     width: auto;

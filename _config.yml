@@ -3,6 +3,10 @@ title: intjonathan
 description: Behold! My Stuff.
 repository: intjonathan/vanity-site
 
+collections:
+  resources:
+    output: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -13,6 +17,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "resource"
 
 exclude:
   - CLAUDE.md

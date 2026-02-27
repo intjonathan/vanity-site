@@ -33,3 +33,13 @@ layout: default
   {% endfor %}
 </ul>
 <p><a href="{{ '/talks.html' | relative_url }}">See all talks</a></p>
+
+<h2>Resources</h2>
+<ul>
+  {% for resource in site.resources %}
+    <li>
+      <a href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<p><a href="{{ '/resources.html' | relative_url }}">See all resources</a></p>

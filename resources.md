@@ -3,7 +3,7 @@ layout: default
 title: Resources
 ---
 
-# Resources
+## Resources
 
 <ul>
   {% for resource in site.resources %}

@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: intjonathan
-description: Behold! My Stuff.
+tagline: Home
+description: '<a href="https://www.linkedin.com/in/intjonathan/">Linkedin</a><br/><a href="https://github.com/intjonathan">Github</a><br/><a href="https://bsky.app/profile/intjonathan.com">Bluesky</a><br/><a href="https://www.reddit.com/user/intjonathan/">Reddit</a><br/><a rel="me" href="https://mas.to/@intjonathan">Mastodon</a><br/><a href="https://www.instagram.com/intjonathan/">Instagram</a><br/>'
 repository: intjonathan/vanity-site
 
 collections:
